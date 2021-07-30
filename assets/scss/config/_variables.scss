@@ -1,0 +1,51 @@
+$breack-point:(
+    sm: 540px,
+    md: 720px,
+    lg: 960px
+);
+
+:root{
+    --font-famili-poppins:'Poppins', sans-serif;
+    --font-famili-ubuntu: 'Ubuntu', sans-serif;
+    --header-menu:auto;
+    @include rwd(md){
+        --header-menu:4rem;
+    }
+}
+//var color
+:root{
+    --color-first:#007BDF;
+    --color-border:#DFE0E0;
+    --color-alert: #ff3c32;
+    --color-secon:rgba(230, 29, 29, 0.719);
+    --color-white:white;
+}
+
+// variables de anidamiento
+:root{
+    --z-back: -10;
+    --z-normal:1;
+    --z-tooltip:10;
+    --z-fixed:100;
+    --z-modal:1000;
+}
+
+//Variables de tipografía
+:root{
+    --h1-font-size:2rem;
+    --h2-font-size:1.5rem;
+    --h3-font-size:1.25rem;
+    --body-font-size:.9rem;
+    --nav-font-size:.9rem;
+    --banner-font-size:1.6rem;
+    --small-font-size:.75rem;
+    @include rwd(md) {
+        --h1-font-size:2.5rem;
+        --h2-font-size:2rem;
+        --h3-font-size:1.5rem;
+        --body-font-size:1rem;
+        --nav-font-size:1rem;
+        --banner-font-size:2rem;
+        --small-font-size:.8rem;
+    }
+}

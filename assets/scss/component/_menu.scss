@@ -1,0 +1,29 @@
+//TODO: de donde tomo el estandar de altura de header
+.menu{
+    // background-color: var(--color-secon);
+    // height: var(--header-menu);
+    position: fixed;
+    right: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+
+    &-block{
+        display: flex;
+        flex-flow:column wrap ;
+        align-items: center;
+        padding: 1rem 0;
+        @include rwd(md){
+            flex-flow: row wrap;
+            justify-content: space-between;
+        }
+    }
+}
+.menu__logo{
+    letter-spacing: .4rem;
+    font-size:1.5em;
+    font-weight: 600;
+}
+.menu-color-logo{
+    color: var(--color-secon);
+}

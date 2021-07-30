@@ -1,0 +1,11 @@
+@mixin rwd($bp) {
+    @if map-has-key($breack-point, $bp ){
+        @media screen and(min-width: map-get($breack-point, $bp )) {
+            @content;
+        }
+    }@else{
+        @media screen and(min-width: $bp) {
+            @content;
+        }
+    }
+}

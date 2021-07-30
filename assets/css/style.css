@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap");
+:root {
+  --font-famili-poppins:'Poppins', sans-serif;
+  --font-famili-ubuntu: 'Ubuntu', sans-serif;
+  --header-menu:auto; }
+  @media screen and (min-width: 720px) {
+    :root {
+      --header-menu:4rem; } }
+
+:root {
+  --color-first:#007BDF;
+  --color-border:#DFE0E0;
+  --color-alert: #ff3c32;
+  --color-secon:rgba(230, 29, 29, 0.719);
+  --color-white:white; }
+
+:root {
+  --z-back: -10;
+  --z-normal:1;
+  --z-tooltip:10;
+  --z-fixed:100;
+  --z-modal:1000; }
+
+:root {
+  --h1-font-size:2rem;
+  --h2-font-size:1.5rem;
+  --h3-font-size:1.25rem;
+  --body-font-size:.9rem;
+  --nav-font-size:.9rem;
+  --banner-font-size:1.6rem;
+  --small-font-size:.75rem; }
+  @media screen and (min-width: 720px) {
+    :root {
+      --h1-font-size:2.5rem;
+      --h2-font-size:2rem;
+      --h3-font-size:1.5rem;
+      --body-font-size:1rem;
+      --nav-font-size:1rem;
+      --banner-font-size:2rem;
+      --small-font-size:.8rem; } }
+
+.menu, .main-banner {
+  font-family: var(--font-famili-ubuntu); }
+
+body a {
+  text-decoration: none;
+  color: var(--color-white); }
+
+body li {
+  list-style: none; }
+
+body ul {
+  margin: 0;
+  padding: 0; }
+
+.menu {
+  position: fixed;
+  right: 0;
+  left: 0;
+  display: flex;
+  align-items: center; }
+  .menu-block {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    padding: 1rem 0; }
+    @media screen and (min-width: 720px) {
+      .menu-block {
+        flex-flow: row wrap;
+        justify-content: space-between; } }
+
+.menu__logo {
+  letter-spacing: .4rem;
+  font-size: 1.5em;
+  font-weight: 600; }
+
+.menu-color-logo {
+  color: var(--color-secon); }
+
+.menu-nav {
+  display: flex;
+  flex-direction: nowrap;
+  font-size: var(--nav-font-size);
+  font-weight: 450; }
+
+.menu-nav__block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; }
+
+.menu__li {
+  display: inline-block; }
+
+.menu__link {
+  display: block;
+  padding: .5rem 1rem;
+  transition: color .3s ease; }
+  .menu__link:hover {
+    color: var(--color-alert); }
+
+.main-banner {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.banner__img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-position: center;
+  object-fit: cover; }
+
+.banner__content {
+  position: absolute; }
+
+.banner__text {
+  font-size: var(--banner-font-size);
+  font-weight: 500; }
+  .banner__text-2 {
+    --banner-font-size:2.2rem;
+    font-weight: 800;
+    margin-top: -.3em;
+    margin-left: -.2em; }
+    @media screen and (min-width: 720px) {
+      .banner__text-2 {
+        --banner-font-size:2.9rem; } }
+  .banner__text-3 {
+    --banner-font-size:1.8rem;
+    margin-left: .5em 0; }
+    @media screen and (min-width: 720px) {
+      .banner__text-3 {
+        --banner-font-size:2rem; } }
+    .banner__text-3 .span-text {
+      color: var(--color-secon);
+      font-weight: 700; }
