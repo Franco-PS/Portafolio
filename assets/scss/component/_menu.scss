@@ -1,12 +1,22 @@
 //TODO: de donde tomo el estandar de altura de header
 .menu{
-    // background-color: var(--color-secon);
-    // height: var(--header-menu);
+    z-index: var(--z-modal);
     position: fixed;
     right: 0;
     left: 0;
     display: flex;
     align-items: center;
+    transition: all .3s ease-in;
+    &-scrolly{
+        background-color: var(--color-secon);
+        //TODO: No estare bajando mucho
+        .menu-color-logo{
+            color: var(--color-white);
+        }
+        .menu__link:hover{
+            color: var(--color-gray);
+        }
+    }
 
     &-block{
         display: flex;
@@ -26,4 +36,5 @@
 }
 .menu-color-logo{
     color: var(--color-secon);
+    transition: all .3s ease-in;
 }

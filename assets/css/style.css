@@ -11,8 +11,9 @@
   --color-first:#007BDF;
   --color-border:#DFE0E0;
   --color-alert: #ff3c32;
-  --color-secon:rgba(230, 29, 29, 0.719);
-  --color-white:white; }
+  --color-secon:rgb(230, 29, 29);
+  --color-white:white;
+  --color-gray:gray; }
 
 :root {
   --z-back: -10;
@@ -54,11 +55,19 @@ body ul {
   padding: 0; }
 
 .menu {
+  z-index: var(--z-modal);
   position: fixed;
   right: 0;
   left: 0;
   display: flex;
-  align-items: center; }
+  align-items: center;
+  transition: all .3s ease-in; }
+  .menu-scrolly {
+    background-color: var(--color-secon); }
+    .menu-scrolly .menu-color-logo {
+      color: var(--color-white); }
+    .menu-scrolly .menu__link:hover {
+      color: var(--color-gray); }
   .menu-block {
     display: flex;
     flex-flow: column wrap;
@@ -75,7 +84,8 @@ body ul {
   font-weight: 600; }
 
 .menu-color-logo {
-  color: var(--color-secon); }
+  color: var(--color-secon);
+  transition: all .3s ease-in; }
 
 .menu-nav {
   display: flex;
