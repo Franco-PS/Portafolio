@@ -19,3 +19,9 @@ body ul{
 //     max-width: 100%;
 //     height: auto;
 // }
+body h1,h2,h3,h4,h5{
+    margin-bottom: 0;
+}
+body main{
+    font-family: var(--font-famili-poppins);
+}

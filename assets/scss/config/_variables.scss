@@ -8,8 +8,14 @@ $breack-point:(
     --font-famili-poppins:'Poppins', sans-serif;
     --font-famili-ubuntu: 'Ubuntu', sans-serif;
     --header-menu:auto;
+    --space-yrem:2rem;
+    --bottom-pseudo-befor:-5rem;
+    --bottom-pseudo-after:-6rem;
     @include rwd(md){
         --header-menu:4rem;
+        --space-yrem:4rem;
+        --bottom-pseudo-befor:-8.1rem;
+        --bottom-pseudo-after:-9rem;
     }
 }
 //var color
@@ -20,6 +26,7 @@ $breack-point:(
     --color-secon:rgb(230, 29, 29);
     --color-white:white;
     --color-gray:gray;
+    --color-strong-gray:rgb(49, 49, 49);
 }
 
 // variables de anidamiento
@@ -49,4 +56,9 @@ $breack-point:(
         --banner-font-size:2rem;
         --small-font-size:.8rem;
     }
+}
+
+:root{
+    --slim-weight400:400;
+    --slim-weight500:500;
 }
