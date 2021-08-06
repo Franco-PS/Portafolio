@@ -4,6 +4,7 @@ main .btn{
     margin-top: 20px;
     background-color: var(--color-secon);
     color:var(--color-white) ;
+    // font-size: var();
     border: 2px solid var(--color-secon);
     border-radius: .3em;
     transition: all .3s ease;
@@ -18,5 +19,13 @@ main .btn__proyec{
     margin: 0 .5rem;
     &:hover{
         color: white;
+    }
+}
+.btn__contact{
+    background-color: yellow;
+    &:hover{
+        color: #000;
+    }
+    @include rwd(md){
     }
 }

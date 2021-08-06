@@ -3,25 +3,33 @@
 .menu, .main-banner{
     font-family: var(--font-famili-ubuntu);
 }
-
-body a{
-    text-decoration: none;
-    color: var(--color-white);
-}
-body li{
-    list-style: none;
-}
 body ul{
     margin: 0;
     padding: 0;
+    li{
+        list-style: none;
+    }
+    a{
+        text-decoration: none;
+        color: var(--color-white);
+    }
 }
-// img{
-//     max-width: 100%;
-//     height: auto;
-// }
+.title,.footer-content {
+    font-family: var(--font-famili-ubuntu);
+    margin-bottom: 0;
+    &-h2{
+        text-align: center;
+        font-size: var(--h2-font-size);
+        font-weight: var(--slim-weight500);
+        padding-bottom: var(--space-yrem);
+    }
+}
+
 body h1,h2,h3,h4,h5{
     margin-bottom: 0;
 }
 body main{
     font-family: var(--font-famili-poppins);
+    // z-index: var(--z-normal);
+    background-color: var(--color-white);
 }

@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/css/style.css">
+    <!-- cdn icon -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
     
     <script src="https://kit.fontawesome.com/d5ce5b01d3.js" crossorigin="anonymous"></script>
@@ -31,22 +32,22 @@
         </div>
     </header>
     <!-- banner -->
-    <div id="main-banner" class="main-banner">
+    <div id="banner" class="banner">
         <img srcset="./assets/img/desierto-chico.jpg 640w, ./assets/img/desierto-grande.jpg 3173w"
         src="https://www.pexels.com/photo/sea-dawn-landscape-sunset-4132804/" 
         alt="Desierto" class="banner__img">
         <div class="container banner__content">
             <div class="banner__text banner__text-1">Hola, me llamo</div>
             <div class="banner__text banner__text-2">Francisco Gerardo</div>
-            <div class="banner__text banner__text-3">Apacionado en tecnología <span class="span-text">Frond End</span></div>
+            <div class="banner__text banner__text-3">Apacionado en tecnología <span class="banner__text-change">Frond End</span></div>
         </div>
 
     </div>
     <main>
-        <!-- About my -->
-       <section class="container content-y">
+        <!-- About me -->
+       <section class="container mb-content mt-5">
            <div class="row">
-               <h2 class="col-12 block-title">About me</h2>
+               <h2 class="col-12 title title-h2 title-before">About me</h2>
                <div class="col-12 col-md-6">
                    <img class=" block-img mb-3 mb-md-0" src="" alt="" srcset="./assets/img/sergio640.jpg 640w,./assets/img/sergio1920.jpg 1920.jpg">
                </div>
@@ -60,22 +61,22 @@
            </div>
        </section> 
        <!-- My proyec -->
-       <section class="services">
-           <div class="container content-y py-5">
+       <section class="contain_bg-gray mb-content">
+           <div class="container  py-5">
                <div class="row">
-                   <!-- TODO: porque no se aplica los speud-elem de block-title -->
-                   <h2 class="col-12 block-title text-white">Proyec</h2>
+                   <!-- TODO: porque no se aplica los speud-elem de title-h2 -->
+                   <h2 class="col-12 title title-h2">Proyec</h2>
                    <div class=" col-12 col-md-4 my-3">
-                       <div class="block d-flex position-relative">
+                       <div class="block-proyec">
                            <img class="block-img " src="" alt="" 
                            srcset="./assets/img/pc640.jpg 640w, ./assets/img/pc1920.jpg 1920w">
-                           <div class="services__link-hide ">
+                           <div class="block-proyec__bg-gray">
                                <a class="btn btn__proyec" href="#">http://</a>
                                <a class="btn btn__proyec" href="#">http://</a>
                            </div>
                        </div>
                    </div>
-                   <div class=" col-12 col-md-4 my-3">
+                   <!-- <div class=" col-12 col-md-4 my-3">
                        <div class=" block d-flex position-relative">
                            <img class="block-img " src="" alt="" 
                            srcset="./assets/img/pc640.jpg 640w, ./assets/img/pc1920.jpg 1920w">
@@ -94,21 +95,22 @@
                                <a class="btn btn__proyec" href="#">http://</a>
                            </div>
                        </div>
-                   </div>
+                   </div> -->
                </div>
            </div>
        </section>
        <!-- skills -->
-       <section class="container content-y">
+       <section class="container mb-content">
            <div class="row">
-               <h2 class="col-12 block-title">My skills</h2>
+               <h2 class="col-12 title title-h2">My skills</h2>
                <div class="col-12 col-md-6">
                    <div class="skill__box">
                        <h3 class="skill__title">Frontend developen</h3>
                        <div class="skill__content">
                            <div class="skill-bars">
                                <div class="info">
-                                   <span class="icon-box icon-html">HTML5</span>
+                                   <span>
+                                        HTML5</span>
                                    <span>90%</span>
                                 </div>
                                 <div class="bar100">
@@ -144,11 +146,14 @@
                </div>
                <div class="col-12 col-md-6">
                    <div class="skill__box">
-                       <h3 class="skill__title">Designer web</h3>
+                        <h3 class="skill__title">Designer web</h3>
                        <div class="skill__content">
                            <div class="skill-bars">
                                <div class="info">
-                                   <span class="icon-box icon-html">UX</span>
+                                   <div class="d-flex">
+                                    <span class="icon-box icon-ux"></span>
+                                    <span>UX</span>
+                                   </div>
                                    <span>90%</span>
                                 </div>
                                 <div class="bar100">
@@ -161,8 +166,42 @@
                </div>
            </div>
        </section>
-
+       <!-- contact -->
+       <section class="position-relative" >
+           <img class="content__img" src="./assets/img/desierto-chico.jpg" alt="">
+           <div class="container position-relative py-5">
+               <div class="row">
+                   <h2 class="col-12 title title-h2">Contact me</h2>
+                   <div class="col12 col-md-6">
+                    <img class="form-img" src="./assets/img/desierto-chico.jpg" alt="">
+                   </div>
+                   <div class="col12 col-md-6 ">
+                       <form class="form-block">
+                           <h3 class="text-center my-2 pb-md-3">Message me</h3>
+                           <input class="form__input" type="text" placeholder="Name">
+                           <input class="form__input" type="text" placeholder="Email">
+                           <input class="form__input" type="text" placeholder="Subject">
+                           <textarea class="form__input" name="" id="" rows="5" placeholder="Message"></textarea>
+                           
+                            <div>
+                            <button class="btn btn__contact" type="submit">Send message</button>
+                            </div>
+                       </form>
+                   </div>
+               </div>
+           </div>
+       </section>
     </main>
+    <footer class="footer-content">
+        <div class="container">
+            <hr class="footer__line">
+            <div class="d-md-flex justify-content-center position-relative">
+                <p>Created By <span class="footer__span-text">Francisco</span> |&#xa9; 2021</p>
+                <p>Everything has its Time and its Space. </p>
+                <p>| Made with <span class="footer__span-text">&#x2764;</span></p>
+            </div>
+        </div>
+    </footer>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
     <script src="./assets/js/script.js"></script>

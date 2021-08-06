@@ -1,5 +1,5 @@
-.main-banner{
-    width: 100vw;
+.banner{
+    width: 100%;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -15,31 +15,17 @@
 .banner__content{
     position:absolute;
 }
-
-//TODO: Se puede refinar
 .banner__text{
-    font-size:var(--banner-font-size) ;
-    font-weight: 500;
-    &-2{
-        --banner-font-size:2.2rem;
-        font-weight: 800;
-        margin-top: -.3em;
-        margin-left: -.2em;
-        @include rwd(md){
-            --banner-font-size:2.9rem;
-        }
-    }
-    &-3{
-        --banner-font-size:1.8rem;
-        margin-left: .5em 0;
-        @include rwd(md){
-            --banner-font-size:2rem;
-        }
-        .span-text{
-            color: var(--color-secon);
-            font-weight: 700;
-        }
-    }
-    
+    font-size: var(--banner-font-size);
+    font-weight: var(--slim-weight500);
+}
+.banner__text-2{
+    font-weight: calc(var(--slim-weight500) + 200);
+}
+.banner__text-3{
+    font-weight: calc(var(--slim-weight500) + 100);
+}
+.banner__text-change{
+    color: var(--color-secon);
 }
 
