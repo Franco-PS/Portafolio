@@ -1,4 +1,5 @@
-.content__img{
+
+.contact__img1{
     object-fit: cover;
     object-position: center;
     position: absolute;
@@ -7,6 +8,44 @@
     width: 100%;
     height: 100%;
     filter: blur(5px);
+    // clip-path: polygon(2px 2px,100% 0,100% 99%,2px 99%);
+}
+.contact__block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact__block-link{
+    position: relative;
+    font-size: 4rem;
+    text-align: center;
+    .fa-telegram{
+        color: #23AAEB;
+    }
+    .fa-twitter-square{
+        color: #179CF0;
+    }
+    .fa-whatsapp-square{
+        color: #0DC143;
+
+    }
+    .fab:hover{
+        color: var(--color-white);
+    }
+    @include rwd(md){
+        position: absolute;
+    }
+}
+.contact__img2{
+    display: none;
+    @include rwd(md){
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+        border-radius: 5px;
+    }
 }
 .form-block{
     border: 2px solid var(--color-gray);
@@ -18,14 +57,6 @@
         padding: 1rem 2rem;
         margin: 0 2rem;
     }
-}
-.form-img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
-    margin-bottom: 2rem;
-    border-radius: 5px;
 }
 .form__input{
     width: 100%;

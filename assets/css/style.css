@@ -14,8 +14,8 @@
       --bottom-pseudo-after:-9rem; } }
 
 :root {
-  --color-first:#007BDF;
-  --color-border:#DFE0E0;
+  --color-first:#fcfaf9;
+  --color-border:hsl(81, 47%, 52%);
   --color-alert: #ff3c32;
   --color-secon:hsl(91, 25%, 43%);
   --color-white:white;
@@ -161,7 +161,11 @@ body main {
   object-fit: cover; }
 
 .banner__content {
-  position: absolute; }
+  position: absolute;
+  color: var(--color-border); }
+  @media screen and (min-width: 720px) {
+    .banner__content {
+      color: var(--color-strong-gray); } }
 
 .banner__text {
   font-size: var(--banner-font-size);
@@ -174,7 +178,10 @@ body main {
   font-weight: calc(var(--slim-weight500) + 100); }
 
 .banner__text-change {
-  color: var(--color-secon); }
+  color: var(--color-first); }
+  @media screen and (min-width: 720px) {
+    .banner__text-change {
+      color: var(--color-secon); } }
 
 .mb-content {
   margin-bottom: var(--space-yrem); }
@@ -241,32 +248,9 @@ main .btn__contact:hover {
 
 .skill__box-click {
   padding: 1rem 1rem; }
-  @media screen and (min-width: 720px) {
-    .skill__box-click {
-      background-color: var(--color-gray);
-      border: 2px solid var(--color-gray);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      border-radius: .5em; }
-      .skill__box-click:hover {
-        transition: all .8s;
-        background-color: var(--color-white); }
-      .skill__box-click:hover .icon-down {
-        transition: all .8s;
-        color: black; } }
 
 .skill__content {
   padding: 0 1rem; }
-  @media screen and (min-width: 720px) {
-    .skill__content {
-      overflow: hidden;
-      height: 0;
-      transition: all .5s ease-out; } }
-
-.show {
-  display: block;
-  height: 480px; }
 
 .info {
   display: flex;
@@ -290,7 +274,7 @@ main .btn__contact:hover {
   .bar__hide.bar__show {
     width: 90%; }
 
-.content__img {
+.contact__img1 {
   object-fit: cover;
   object-position: center;
   position: absolute;
@@ -299,6 +283,38 @@ main .btn__contact:hover {
   width: 100%;
   height: 100%;
   filter: blur(5px); }
+
+.contact__block {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.contact__block-link {
+  position: relative;
+  font-size: 4rem;
+  text-align: center; }
+  .contact__block-link .fa-telegram {
+    color: #23AAEB; }
+  .contact__block-link .fa-twitter-square {
+    color: #179CF0; }
+  .contact__block-link .fa-whatsapp-square {
+    color: #0DC143; }
+  .contact__block-link .fab:hover {
+    color: var(--color-white); }
+  @media screen and (min-width: 720px) {
+    .contact__block-link {
+      position: absolute; } }
+
+.contact__img2 {
+  display: none; }
+  @media screen and (min-width: 720px) {
+    .contact__img2 {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      border-radius: 5px; } }
 
 .form-block {
   border: 2px solid var(--color-gray);
@@ -310,14 +326,6 @@ main .btn__contact:hover {
     .form-block {
       padding: 1rem 2rem;
       margin: 0 2rem; } }
-
-.form-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
-  margin-bottom: 2rem;
-  border-radius: 5px; }
 
 .form__input {
   width: 100%;

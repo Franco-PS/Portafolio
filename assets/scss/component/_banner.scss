@@ -14,6 +14,10 @@
 }
 .banner__content{
     position:absolute;
+    color: var(--color-border);
+    @include rwd(md){
+        color: var(--color-strong-gray);
+    }
 }
 .banner__text{
     font-size: var(--banner-font-size);
@@ -26,6 +30,9 @@
     font-weight: calc(var(--slim-weight500) + 100);
 }
 .banner__text-change{
-    color: var(--color-secon);
+    color: var(--color-first);
+    @include rwd(md){
+        color: var(--color-secon);
+    }
 }
 
