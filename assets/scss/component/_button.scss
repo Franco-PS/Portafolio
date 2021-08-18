@@ -1,10 +1,9 @@
 main .btn{
-    display: inline-block;
+    display: block;
     padding: .8em 1em;
     margin-top: 20px;
     background-color: var(--color-secon);
     color:var(--color-white) ;
-    // font-size: var();
     border: 2px solid var(--color-secon);
     border-radius: .3em;
     transition: all .3s ease;
@@ -18,14 +17,11 @@ main .btn__proyec{
     padding: .2em 2em;
     margin: 0 .5rem;
     &:hover{
-        color: white;
+        color: var(--color-white);
     }
 }
-.btn__contact{
-    background-color: yellow;
+main .btn__contact{
     &:hover{
-        color: #000;
-    }
-    @include rwd(md){
+        color: var(--color-white);
     }
 }

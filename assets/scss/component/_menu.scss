@@ -9,12 +9,12 @@
     transition: all .3s ease-in;
     &-scrolly{
         background-color: var(--color-secon);
-        //TODO: No estare bajando mucho
+        //TODO: No estare bajando mucho en el anidamiento
+        .menu__logo{
+            color: black;
+        }
         .menu-color-logo{
             color: var(--color-white);
-        }
-        .menu__link:hover{
-            color: var(--color-gray);
         }
     }
 
@@ -33,6 +33,8 @@
     letter-spacing: .4rem;
     font-size:1.5em;
     font-weight: 600;
+    color: var(--color-white);
+    transition: all .3s ease-in;
 }
 .menu-color-logo{
     color: var(--color-secon);

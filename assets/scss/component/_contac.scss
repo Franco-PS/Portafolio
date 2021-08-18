@@ -14,7 +14,6 @@
     padding: .4rem .5rem;
     display: flex;
     flex-flow: column wrap;
-    // position: relative;
     @include rwd(md){
         padding: 1rem 2rem;
         margin: 0 2rem;
@@ -22,12 +21,11 @@
 }
 .form-img{
     width: 100%;
-    max-height: 30rem;
+    height: 100%;
     object-fit: cover;
     object-position: center;
-    padding:0 2rem ;
     margin-bottom: 2rem;
-    // border-radius: 50px;
+    border-radius: 5px;
 }
 .form__input{
     width: 100%;

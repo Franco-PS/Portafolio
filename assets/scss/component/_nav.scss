@@ -1,29 +1,23 @@
 .menu-nav{
-    // background-color: blanchedalmond;
     display: flex;
     flex-direction: nowrap;
     font-size: var(--nav-font-size);
     font-weight: 450;
 }
 .menu-nav__block{
-    // background-color: blue;
-    // width: 80%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 .menu__li{
-    // background-color: blueviolet;
     display: inline-block;
 }
 //TODO: como poder poner mas padding al boton sin desajustar el ancho de menu
 .menu__link{
-    // background-color: brown;
     display: block;
     padding: .5rem 1rem;
     transition: color .3s ease;
     &:hover{
         color: var(--color-alert);
     }
-
 }
