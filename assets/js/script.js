@@ -10,6 +10,10 @@ $(document).ready(()=>{
 
 
 
+// addEventListener('scroll', e =>{
+//     console.log(scrollY)
+// })
+
 // const button1= document.getElementById('skill__click1')
 // const button2= document.getElementById('skill__click2')
 // const block1= document.getElementById('skill-show1')

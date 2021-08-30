@@ -44,9 +44,9 @@
         </div>
 
     </div>
-    <main>
+    <main >
         <!-- About me -->
-       <section class="container mb-content pt-5">
+       <section class="container mb-content pt-5 position-relative">
            <div class="row">
                <h2 class="col-12 title title-h2 title-before">About me</h2>
                <div class="col-12 col-md-6">
@@ -69,7 +69,9 @@
                    </div>
                </div>
            </div>
-       </section> 
+       </section>
+       <!-- button scroll -->
+       <a id="btnId" class="btn_up-scroll "><i class="fas fa-angle-double-up"></i></a>
        <!-- My proyec -->
        <section class="contain_bg-gray mb-content">
            <div class="container  py-5">
@@ -122,55 +124,85 @@
                             <i class="fas fa-terminal"></i>
                                Frontend developen</h3>
                     </div>
-                    <div id="skill-show1" class="skill__content my-3 ">
-                        <div class="skill-bars">
+                    <div class="skill__content my-3 ">
+                        <div>
                             <div class="info">
                                 <span>
-                                 <i class="fab fa-html5"></i>
-                                 HTML5</span>
-                                <span>90%</span>
+                                    <i class="fab fa-html5"></i>
+                                    HTML5</span>
+                                <span class="skill-valor" >90%</span>
                              </div>
                              <div class="bar100">
-                                 <div class="bar__hide bar__show"></div>
+                                 <div class="bar__hide bar__HTML5"></div>
                              </div>
                         </div>
-                         <div class="info">
-                             <span class="icon-css">
-                                 <i class="fab fa-css3-alt"></i>
-                                 CSS</span>
-                             <span>60%</span>
-                          </div>
-                          <div class="info">
-                             <span class="icon-js">
-                                 <i class="fab fa-js-square"></i>
-                                 JavaScript</span>
-                             <span>80%</span>
-                          </div>
-                          <div class="info">
-                             <span class="icon-scss">
-                                 <i class="fab fa-sass"></i>
-                                 SCSS</span>
-                             <span>70%</span>
-                          </div>
-                          <div class="info">
-                             <span class="icon-git">
-                                 <i class="fab fa-git-alt"></i>
-                                 GIT</span>
-                             <span>90%</span>
-                          </div>
-                          <div class="info">
-                             <span class="icon-react">
-                                 <i class="fab fa-react"></i>
-                                 REACT</span>
-                             <span>90%</span>
-                          </div>
-                          <div class="info">
-                             <span class="icon-B">
-                                 <i class="fab fa-bootstrap"></i>
-                                 Bootstrap</span>
-                             <span>90%</span>
-                          </div>
-                     </div>
+                        <div>
+                             <div class="info">
+                                 <span class="icon-css">
+                                     <i class="fab fa-css3-alt"></i>
+                                     CSS</span>
+                                 <span class="skill-valor">70%</span>
+                              </div>
+                            <div class="bar100">
+                                <div class="bar__hide bar__CSS"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="info">
+                                <span class="icon-js">
+                                <i class="fab fa-js-square"></i>
+                                JavaScript</span>
+                                <span class="skill-valor">50%</span>
+                            </div>
+                            <div class="bar100">
+                                <div class="bar__hide bar__JavaScript"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="info">
+                                <span class="icon-scss">
+                                <i class="fab fa-sass"></i>
+                                SCSS</span>
+                                <span class="skill-valor">70%</span>
+                            </div>
+                            <div class="bar100">
+                                <div class="bar__hide bar__SCSS"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="info">
+                            <span class="icon-git">
+                                <i class="fab fa-git-alt"></i>
+                                GIT</span>
+                                <span class="skill-valor">80%</span>
+                            </div>
+                            <div class="bar100">
+                                <div class="bar__hide bar__GIT"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="info">
+                            <span class="icon-react">
+                                <i class="fab fa-react"></i>
+                                REACT</span>
+                                <span class="skill-valor">20%</span>
+                            </div>
+                            <div class="bar100">
+                                <div class="bar__hide bar__REACT"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="info">
+                            <span class="icon-B">
+                                <i class="fab fa-bootstrap"></i>
+                                Bootstrap</span>
+                                <span class="skill-valor">90%</span>
+                            </div>
+                            <div class="bar100">
+                                <div class="bar__hide bar__Bootstrap"></div>
+                            </div>
+                        </div>
+                    </div>
                </div>
                <div class="col-12 col-md-6 hola">
                     <div class="skill__box-click">
@@ -178,50 +210,42 @@
                             <i class="fas fa-swatchbook"></i>
                             Designer web</h3>
                     </div>
-                    <div id="skill-show2" class="skill__content my-3 ">
-                           <div class="skill-bars">
-                               <div class="info">
-                                   <span>
-                                    <i class="fas fa-sitemap"></i>
-                                    UX (User Experience)</span>
-                                   <span>10%</span>
-                                </div>
-                                <div class="bar100">
-                                    <div class="bar__hide bar__show"></div>
-                                </div>
-                           </div>
+                    <div class="skill__content my-3 ">
+                        <div>
                             <div class="info">
-                                <span class="icon-css">
-                                    <i class="fas fa-mobile-alt"></i>
-                                    RWD (Responsive Web Design)</span>
-                                <span>60%</span>
+                                <span>
+                                <i class="fas fa-sitemap"></i>
+                                UX (User Experience)</span>
+                                <span class="skill-valor">20%</span>
                             </div>
+                            <div class="bar100">
+                                <div class="bar__hide bar__UX"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="info">
+                            <span class="icon-css">
+                                <i class="fas fa-mobile-alt"></i>
+                                RWD (Responsive Web Design)</span>
+                                <span class="skill-valor">80%</span>
+                            </div>
+                            <div class="bar100">
+                                <div class="bar__hide bar__RWD"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="info">
+                            <span class="icon-css">
+                                <i class="fab fa-markdown"></i>
+                                Markdown</span>
+                                <span class="skill-valor">60%</span>
+                            </div>
+                            <div class="bar100">
+                                <div class="bar__hide bar__Markdown"></div>
+                            </div>
+                        </div>
                     </div>
                </div>
-               
-               <!-- <div class="col-12 col-md-6">
-                   <div class="skill__box">
-                        <h3 class="skill__title">
-                            <i class="fas fa-swatchbook"></i>
-                            Designer web</h3>
-                       <div class="skill__content">
-                           <div class="skill-bars">
-                               <div class="info">
-                                   <div class="d-flex">
-                                    <span class="icon-box icon-ux"></span>
-                                    <span>
-                                        <i class="fas fa-sitemap"></i>
-                                        UX</span>
-                                   </div>
-                                   <span>90%</span>
-                                </div>
-                                <div class="bar100">
-                                    <div class="bar__hide bar__show"></div>
-                                </div>
-                           </div>
-                       </div>
-                   </div>
-               </div> -->
            </div>
        </section>
        <!-- contact -->
@@ -232,19 +256,20 @@
                    <h2 class="col-12 title title-h2">Contact me</h2>
                    <div class="col-12 col-md-6 contact__block">
                        <div class="contact__block-link">
-                           <a  href=""><i class="fab fa-twitter-square"></i></a>
-                           <a  href=""><i class="fab fa-telegram"></i></a>
-                           <a  href=""><i class="fab fa-whatsapp-square"></i></a>
+                           <a href="https://www.linkedin.com/in/francisco-p%C3%A9rez-889189213/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                           <!-- <a href="" target="_blank"><i class="fab fa-twitter-square"></i></a> -->
+                           <a href="https://t.me/Franc584" target="_blank"><i class="fab fa-telegram"></i></a>
+                           <a id="alerWhatsApp" ><i class="fab fa-whatsapp-square"></i></a>
                         </div>
                         <img class="contact__img2" src="./assets/img/pc640.jpg" alt="">
                    </div>
                    <div class="col-12 col-md-6 ">
                        <form class="form-block">
                            <h3 class="text-center my-2 pb-md-3">Message me</h3>
-                           <input class="form__input" type="text" placeholder="Name">
-                           <input class="form__input" type="text" placeholder="Email">
-                           <input class="form__input" type="text" placeholder="Subject">
-                           <textarea class="form__input" name="" id="" rows="5" placeholder="Message"></textarea>
+                           <input class="form__input" type="text" placeholder="Name" required>
+                           <input class="form__input" type="text" placeholder="Email" required>
+                           <input class="form__input" type="text" placeholder="Subject" required>
+                           <textarea class="form__input" name="" id="" rows="5" placeholder="Message (optional)"></textarea>
                            
                             <div>
                             <button class="btn btn__contact" type="submit">Send message</button>

@@ -215,6 +215,26 @@ main .btn__proyec {
 main .btn__contact:hover {
   color: var(--color-white); }
 
+.btn_up-scroll {
+  z-index: var(--z-tooltip);
+  border-radius: 4px;
+  border: 2px solid var(--color-secon);
+  line-height: 0;
+  display: inline-block;
+  position: sticky;
+  left: 94%;
+  top: 80%;
+  cursor: pointer;
+  font-size: 2rem; }
+  .btn_up-scroll :hover {
+    color: var(--color-secon);
+    background-color: transparent; }
+
+.fa-angle-double-up {
+  padding: .5rem;
+  background-color: var(--color-secon);
+  color: var(--color-white); }
+
 .icon-down {
   color: var(--color-gray);
   font-size: 1.5rem; }
@@ -271,8 +291,26 @@ main .btn__contact:hover {
   height: 1em;
   border-radius: .5em;
   transition: all .3s ease-in; }
-  .bar__hide.bar__show {
+  .bar__hide.bar__HTML5 {
     width: 90%; }
+  .bar__hide.bar__CSS {
+    width: 70%; }
+  .bar__hide.bar__JavaScript {
+    width: 50%; }
+  .bar__hide.bar__SCSS {
+    width: 70%; }
+  .bar__hide.bar__GIT {
+    width: 80%; }
+  .bar__hide.bar__REACT {
+    width: 20%; }
+  .bar__hide.bar__Bootstrap {
+    width: 90%; }
+  .bar__hide.bar__UX {
+    width: 20%; }
+  .bar__hide.bar__RWD {
+    width: 80%; }
+  .bar__hide.bar__Markdown {
+    width: 60%; }
 
 .contact__img1 {
   object-fit: cover;
@@ -293,6 +331,8 @@ main .btn__contact:hover {
   position: relative;
   font-size: 4rem;
   text-align: center; }
+  .contact__block-link .fa-linkedin {
+    color: #0A66C2; }
   .contact__block-link .fa-telegram {
     color: #23AAEB; }
   .contact__block-link .fa-twitter-square {
