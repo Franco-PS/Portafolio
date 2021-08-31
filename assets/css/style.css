@@ -77,12 +77,43 @@ body h1, body h2, body h3, body h4, h5 {
 
 body main {
   z-index: var(--z-normal);
-  background-color: var(--color-white); }
+  background-color: var(--color-white);
+  position: relative; }
 
 #body {
   font-family: var(--font-famili-poppins);
   z-index: var(--z-normal);
   position: relative; }
+
+.block__window {
+  z-index: var(--z-tooltip);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(81, 83, 83, 0.829);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  overflow: auto;
+  z-index: var(--z-modal); }
+
+.block__pdf {
+  position: relative;
+  top: 20px;
+  height: 80%; }
+
+.alertaWhat {
+  padding: 1rem;
+  border: 2px solid rgba(255, 255, 0, 0.924);
+  border-radius: .5rem;
+  background-color: var(--color-border);
+  position: absolute;
+  top: 100px;
+  left: 40%; }
 
 .menu {
   z-index: var(--z-modal);
@@ -225,7 +256,8 @@ main .btn__contact:hover {
   left: 94%;
   top: 80%;
   cursor: pointer;
-  font-size: 2rem; }
+  font-size: 2rem;
+  transition: all .5s ease-in-out; }
   .btn_up-scroll :hover {
     color: var(--color-secon);
     background-color: transparent; }

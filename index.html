@@ -21,13 +21,13 @@
             <nav class="menu-nav">
                 <ul class="menu-nav__block">
                     <li class="menu__li">
-                        <a href="#" class="menu__link">About me</a></li>
+                        <a href="#aboutMe" class="menu__link">About me</a></li>
                     <li class="menu__li">
-                        <a href="#" class="menu__link">Project</a></li>
+                        <a href="#project" class="menu__link">Project</a></li>
                     <li class="menu__li">
-                        <a href="#" class="menu__link">My Skills</a></li>
+                        <a href="#skills" class="menu__link">My Skills</a></li>
                     <li class="menu__li">
-                        <a href="#" class="menu__link">Contact me</a></li>
+                        <a href="#contact" class="menu__link">Contact me</a></li>
                 </ul>
             </nav>
         </div>
@@ -44,10 +44,10 @@
         </div>
 
     </div>
-    <main >
+    <main id="main">
         <!-- About me -->
-       <section class="container mb-content pt-5 position-relative">
-           <div class="row">
+       <section id="aboutMe" class="container mb-content pt-5 ">
+            <div class="row">
                <h2 class="col-12 title title-h2 title-before">About me</h2>
                <div class="col-12 col-md-6">
                    <img class=" block-img mb-3 mb-md-0" src="" alt="" srcset="./assets/img/sergio640.jpg 640w,./assets/img/sergio1920.jpg 1920.jpg">
@@ -65,15 +65,15 @@
                    <p>I like to help and receive feedback, but I know something, I am sure I will learn it very soon. 
                     </p>
                    <div class="d-flex">
-                       <a class="btn " href="#">Download C.V.</a>
+                       <a id="btnCV" class="btn " >Download C.V.</a>
                    </div>
                </div>
-           </div>
+            </div>
        </section>
        <!-- button scroll -->
-       <a id="btnId" class="btn_up-scroll "><i class="fas fa-angle-double-up"></i></a>
+       <a id="btnScroll" class="btn_up-scroll" href="#banner"><i class="fas fa-angle-double-up"></i></a>
        <!-- My proyec -->
-       <section class="contain_bg-gray mb-content">
+       <section id="project" class="contain_bg-gray mb-content">
            <div class="container  py-5">
                <div class="row">
                    <h2 class="col-12 title title-h2">Project</h2>
@@ -115,7 +115,7 @@
            </div>
        </section>
        <!-- skills -->
-       <section class="container mb-content">
+       <section id="skills" class="container mb-content">
            <div id="idSkill" class="row">
                <h2 class="col-12 title title-h2">My skills</h2>
                <div class="col-12 col-md-6">
@@ -249,7 +249,7 @@
            </div>
        </section>
        <!-- contact -->
-       <section class="position-relative " >
+       <section id="contact" class="position-relative " >
            <img class="contact__img1" src="./assets/img/pc640.jpg" alt="">
            <div class="container position-relative py-5 text-light">
                <div class="row">
@@ -264,15 +264,15 @@
                         <img class="contact__img2" src="./assets/img/pc640.jpg" alt="">
                    </div>
                    <div class="col-12 col-md-6 ">
-                       <form class="form-block">
+                       <form class="form-block" action="enviar.php" method="POST">
                            <h3 class="text-center my-2 pb-md-3">Message me</h3>
-                           <input class="form__input" type="text" placeholder="Name" required>
-                           <input class="form__input" type="text" placeholder="Email" required>
-                           <input class="form__input" type="text" placeholder="Subject" required>
-                           <textarea class="form__input" name="" id="" rows="5" placeholder="Message (optional)"></textarea>
+                           <input class="form__input" type="text" name="nombre" placeholder="Name" required>
+                           <input class="form__input" type="text" name="correo" placeholder="Email" required>
+                           <input class="form__input" type="text" name="asunto" placeholder="Subject" required>
+                           <textarea class="form__input" name="mensaje" id="" rows="5" placeholder="Message" required></textarea>
                            
                             <div>
-                            <button class="btn btn__contact" type="submit">Send message</button>
+                            <button id="btn__contact" class="btn btn__contact" type="submit" value="enviar">Send message</button>
                             </div>
                        </form>
                    </div>

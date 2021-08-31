@@ -1,0 +1,35 @@
+.block__window{
+    z-index: var(--z-tooltip);
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(81, 83, 83, 0.829);
+
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: auto;
+    z-index: var(--z-modal);
+}
+.block__pdf{
+    position: relative;
+    top: 20px;
+    // width: 500px;
+    height: 80%;
+    // background-color: aquamarine;
+
+}
+
+.alertaWhat{
+    padding: 1rem;
+    border: 2px solid rgba(255, 255, 0, 0.924);
+    border-radius: .5rem;
+    background-color: var(--color-border);
+    position: absolute;
+    top: 100px;
+    left: 40%;
+}
