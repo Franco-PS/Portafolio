@@ -6,5 +6,5 @@
     $mensaje= "$_Post["mensaje"]";
     $contenido= "nombre".$nombre . "\ncorreo". $correo . "\nasunto" . $asunto . "\nmensaje" .  $mensaje;
     mail($destino,"asunto",$contenido);
-    // header("")
+    header("Location:index.html");
 ?>
