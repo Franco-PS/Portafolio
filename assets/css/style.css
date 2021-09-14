@@ -224,6 +224,10 @@ body main {
   object-position: center;
   border-radius: 1rem; }
 
+.img__frank {
+  max-width: 400px;
+  margin: 0 auto; }
+
 main .btn {
   display: block;
   padding: .8em 1em;
@@ -249,7 +253,7 @@ main .btn__contact:hover {
 .btn_up-scroll {
   z-index: var(--z-tooltip);
   border-radius: 4px;
-  border: 2px solid var(--color-secon);
+  border: 2px solid var(--color-alert);
   line-height: 0;
   display: inline-block;
   position: sticky;
@@ -259,12 +263,12 @@ main .btn__contact:hover {
   font-size: 2rem;
   transition: all .5s ease-in-out; }
   .btn_up-scroll :hover {
-    color: var(--color-secon);
+    color: var(--color-alert);
     background-color: transparent; }
 
 .fa-angle-double-up {
   padding: .5rem;
-  background-color: var(--color-secon);
+  background-color: var(--color-alert);
   color: var(--color-white); }
 
 .icon-down {

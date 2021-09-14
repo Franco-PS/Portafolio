@@ -28,7 +28,7 @@ main .btn__contact{
 .btn_up-scroll{
     z-index: var(--z-tooltip);
     border-radius: 4px;
-    border: 2px solid var(--color-secon); 
+    border: 2px solid var(--color-alert); 
     line-height: 0;
     display: inline-block;
     position: sticky;
@@ -38,12 +38,12 @@ main .btn__contact{
     font-size: 2rem;
     transition: all .5s ease-in-out;
     :hover{
-        color: var(--color-secon);
+        color: var(--color-alert);
         background-color: transparent;
     }
 }
 .fa-angle-double-up{    
     padding: .5rem;
-    background-color: var(--color-secon);
+    background-color: var(--color-alert);
     color: var(--color-white);
 }
