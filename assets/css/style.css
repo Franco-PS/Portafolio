@@ -225,8 +225,7 @@ body main {
   border-radius: 1rem; }
 
 .img__frank {
-  max-width: 400px;
-  margin: 0 auto; }
+  margin: 0; }
 
 main .btn {
   display: block;
