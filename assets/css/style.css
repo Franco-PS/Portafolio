@@ -227,7 +227,8 @@ div .banner__imgMy {
   border-radius: 1rem; }
 
 .img__frank {
-  margin: 0; }
+  margin: 0;
+  height: 20rem; }
 
 body .btn {
   display: block;
