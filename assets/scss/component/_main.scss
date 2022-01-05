@@ -1,4 +1,9 @@
-//proyect
+body main{
+    z-index: var(--z-normal);
+    background-color: var(--color-white);
+    position:relative;
+    // top: 50%;
+}
 .contain_bg-gray{
     background-color: var(--color-strong-gray);
     color: var(--color-white);
@@ -6,6 +11,7 @@
 .block-proyec{
     display: flex;
     position: relative;
+    height: 12rem;
     overflow: hidden;
     @include rwd(md){
         &:hover .block-proyec__bg-gray{

@@ -28,13 +28,12 @@ body ul{
 body h1, body h2,body h3,body h4,h5{
     margin-bottom: 0;
 }
-body main{
-    z-index: var(--z-normal);
-    background-color: var(--color-white);
-    position: relative;
-}
 #body{
     font-family: var(--font-famili-poppins);
-    z-index: var(--z-normal);
+    // z-index: var(--z-normal);
+    // position: relative;
+}
+.position{
     position: relative;
+    z-index: var(--z-tooltip);
 }

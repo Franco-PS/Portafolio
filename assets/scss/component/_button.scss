@@ -1,4 +1,4 @@
-main .btn{
+body .btn{
     display: block;
     padding: .8em 1em;
     margin-top: 20px;
@@ -26,13 +26,10 @@ main .btn__contact{
     }
 }
 .btn_up-scroll{
-    z-index: var(--z-tooltip);
-    border-radius: 4px;
-    border: 2px solid var(--color-alert); 
-    line-height: 0;
+    z-index: var(--z-tooltip);    
     display: inline-block;
     position: sticky;
-    left: 94%;
+    left: 90%;
     top: 80%;
     cursor: pointer;
     font-size: 2rem;
@@ -44,6 +41,9 @@ main .btn__contact{
 }
 .fa-angle-double-up{    
     padding: .5rem;
+    border-radius: 4px;
+    border: 2px solid var(--color-alert); 
+    line-height: 1;
     background-color: var(--color-alert);
     color: var(--color-white);
 }

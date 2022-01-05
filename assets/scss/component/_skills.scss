@@ -1,46 +1,6 @@
-$bar:(
-    HTML5:90,
-    CSS: 70,
-    JavaScript:50,
-    SCSS:70,
-    GIT:80,
-    REACT: 20,
-    Bootstrap:90,
-    UX:20,
-    RWD:80,
-    Markdown:60
-);
-
-.skill__box-click{
+.skill__box{
     padding: 1rem 1rem;
 }
 .skill__content{
     padding: 0 1rem;
-}
-.info{
-    display: flex;
-    justify-content: space-between;
-    padding-bottom: 2rem;
-}
-
-.bar100{
-    background-color: var(--color-gray);
-    width: 100%;
-    height: 1em;
-    border-radius: .5em;
-    position: relative;
-    top: -1rem;
-    
-}
-.bar__hide{
-    background-color: var(--color-secon);
-    width: 0;
-    height: 1em;
-    border-radius: .5em;
-    transition: all .3s ease-in;
-    @each $key, $value in $bar {
-        &.bar__#{$key}{
-            width: $value *1%;
-        }
-    }
 }

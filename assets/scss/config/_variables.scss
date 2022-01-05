@@ -1,7 +1,7 @@
 $breack-point:(
-    sm: 540px,
-    md: 720px,
-    lg: 960px
+    sm: 576px,
+    md: 768px,
+    lg: 992px
 );
 
 :root{
@@ -20,7 +20,7 @@ $breack-point:(
 }
 //var color
 :root{
-    --color-first:#fcfaf9;
+    --color-first:hsl(82, 27%, 92%);
     --color-border:hsl(81, 47%, 52%);
     --color-alert: #ff3c32;
     --color-secon:hsl(91, 25%, 43%);
@@ -60,5 +60,5 @@ $breack-point:(
 
 :root{
     --slim-weight400:400;
-    --slim-weight500:500;
+    --slim-weight500:700;
 }

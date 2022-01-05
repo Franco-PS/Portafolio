@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./assets/css/style.css?202103">
+    <meta name="description" content="Desarrollador Web">
+    <meta name="robots" content="index,follow">
+    <link rel="shortcut icon" href="./assets/img/terminal.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./assets/css/style.css?202104">
     <!-- cdn icon -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
     
@@ -18,16 +21,14 @@
     <header class="menu ">
         <div class="container menu-block">
             <div class="menu__logo">Portafo<span class="menu-color-logo">lio</span></div>
-            <nav class="menu-nav">
+            <nav>
                 <ul class="menu-nav__block">
                     <li class="menu__li">
-                        <a href="#aboutMe" class="menu__link">About me</a></li>
+                        <a href="#project" class="menu__link">Proyecto</a></li>
                     <li class="menu__li">
-                        <a href="#project" class="menu__link">Project</a></li>
+                        <a href="#skills" class="menu__link">Habilidades</a></li>
                     <li class="menu__li">
-                        <a href="#skills" class="menu__link">My Skills</a></li>
-                    <li class="menu__li">
-                        <a href="#contact" class="menu__link">Contact me</a></li>
+                        <a href="#contact" class="menu__link">Contactame</a></li>
                 </ul>
             </nav>
         </div>
@@ -38,253 +39,204 @@
         src="https://www.pexels.com/photo/sea-dawn-landscape-sunset-4132804/" 
         alt="Desierto" class="banner__img">
         <div class="container banner__content">
-            <div class="banner__text banner__text-1">Hello, I am</div>
-            <div class="banner__text banner__text-2">Francisco Gerardo</div>
-            <div class="banner__text banner__text-3"><span class="banner__text-change">FrontEnd </span>Developer </div>
+            <div class="row row-aline">
+                <div class="col-12 col-sm-6">
+                    <h1 class="banner__text "><span class="banner__text-change">Desarrollador </span>FrontEnd </h1>
+                    <p class="banner__text ">Francisco Gerardo Pérez S.</p>
+                    <div class="d-flex">
+                        <a id="btnCV" class="btn " >Download C.V.</a>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 text-center">
+                    <img class="banner__imgMy" src="./assets/img/frank2.jpg" alt="">
+                </div>
+            </div>
         </div>
 
     </div>
-    <main id="main">
-        <!-- About me -->
-       <section id="aboutMe" class="container mb-content pt-5 ">
-            <div class="row">
-               <h2 class="col-12 title title-h2 title-before">About me</h2>
-               <div class="col-12 col-md-6">
-                   <div class="img__frank">
-                       <img class=" block-img mb-3 mb-md-0" src="./assets/img/frank2.jpg" alt="Francisco img">
-                   </div>
-               </div>
-               <div class="col-12 col-md-6 d-flex flex-column justify-content-center">
-                   <h4>Hi ...¡¡¡</h4>
-                   <hr>
-                   <p>Soy desarrollador FrontEnd y me encantan trabajar en equipo, ser organizado y detallista.
-                   </p>
-                   <!-- <p>I am a FrontEnd developer, passionate and meticulous about good practices, I love working as a team.
-                    </p> -->
-                   <p>Apacionado en realizar las mejores practicas de desarrollo, siempre pensando en como lo puedo hacer mejor.
-                   </p>
-                   <!-- <p>I like to help and receive feedback, but I know something, I am sure I will learn it very soon. 
-                    </p> -->
-                   <div class="d-flex">
-                       <a id="btnCV" class="btn " >Download C.V.</a>
-                   </div>
-               </div>
-            </div>
-       </section>
-       <!-- button scroll -->
-       <a id="btnScroll" class="btn_up-scroll" href="#banner"><i class="fas fa-angle-double-up"></i></a>
-       <!-- My proyec -->
-       <section id="project" class="contain_bg-gray mb-content">
-           <div class="container  py-5">
-               <div class="row">
-                   <h2 class="col-12 title title-h2">Project</h2>
-                   <div class=" col-12 col-md-4 my-3">
-                       <div class="block-proyec">
-                           <img class="block-img " src="./assets/img/portafolio2.jpg" alt="">
-                           <!-- <img class="block-img " src="" alt="" 
-                           srcset="./assets/img/pc640.jpg 640w, ./assets/img/pc640.jpg 1920w"> -->
-                           <div class="block-proyec__bg-gray">
-                               <a class="btn btn__proyec" href="https://franco-ps.github.io/Portafolio/">
-                                   <i class="fas fa-globe-americas fa-2x d-block"></i>
-                                </a>
-                               <a class="btn btn__proyec" href="https://github.com/Franco-PS/Portafolio" target="_blanck">
-                                    <i class="fab fa-github fa-2x d-block"></i>
-                               </a>
-                           </div>
+    <div class="position">
+        <main id="main">
+            <!-- About me -->
+           <section id="aboutMe" class="container mb-content pt-5 ">
+                <div class="row">
+                   <h2 class="col-12 title title-h2 title-before">Acerca de mi</h2>
+                   <div class="col-12 col-md-6">
+                       <div class="img__frank">
+                           <img class=" block-img mb-3 mb-md-0" src="./assets/img/frank2.jpg" alt="Francisco img">
                        </div>
                    </div>
-                   <div class=" col-12 col-md-4 my-3">
-                    <div class="block-proyec">
-                        <img class="block-img" src="./assets/img/svgator1.jpg" alt="">
-                        <div class="block-proyec__bg-gray">
-                            <a class="btn btn__proyec" href="https://franco-ps.github.io/Tecnolog/" target="_blanck">
-                                <i class="fas fa-globe-americas fa-2x d-block"></i>
-                             </a>
-                            <a class="btn btn__proyec" href="https://github.com/Franco-PS/Tecnolog" target="_blanck">
-                                 <i class="fab fa-github fa-2x d-block"></i>
-                            </a>
-                        </div>
-                    </div>
+                   <div class="col-12 col-md-6 d-flex flex-column justify-content-center">
+                       <h4>Hola...¡¡¡</h4>
+                       <hr>
+                       <p>Realizo sitios estáticos para los sectores e-commerce, busco
+                        colaborar en equipo como Desarrollador Frontend Jr, me
+                        gusta aprender y apoyar a los diseñadores y Scrum Master
+                        conocer más del diseño y planeación de los proyectos y
+                        cuento con experiencia y cursos en dichas áreas.
+                       </p>
+                   </div>
                 </div>
-               </div>
-           </div>
-       </section>
-       <!-- skills -->
-       <section id="skills" class="container mb-content">
-           <div id="idSkill" class="row">
-               <h2 class="col-12 title title-h2">My skills</h2>
-               <div class="col-12 col-md-6">
-                   <div class="skill__box-click">
-                        <h3 class="skill__title">
-                            <i class="fas fa-terminal"></i>
-                               Frontend developen</h3>
-                    </div>
-                    <div class="skill__content my-3 ">
-                        <div>
-                            <div class="info">
-                                <span>
-                                    <i class="fab fa-html5"></i>
-                                    HTML5</span>
-                                <span class="skill-valor" >90%</span>
-                             </div>
-                             <div class="bar100">
-                                 <div class="bar__hide bar__HTML5"></div>
-                             </div>
-                        </div>
-                        <div>
-                             <div class="info">
-                                 <span class="icon-css">
-                                     <i class="fab fa-css3-alt"></i>
-                                     CSS</span>
-                                 <span class="skill-valor">70%</span>
-                              </div>
-                            <div class="bar100">
-                                <div class="bar__hide bar__CSS"></div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="info">
-                                <span class="icon-js">
-                                <i class="fab fa-js-square"></i>
-                                JavaScript</span>
-                                <span class="skill-valor">50%</span>
-                            </div>
-                            <div class="bar100">
-                                <div class="bar__hide bar__JavaScript"></div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="info">
-                                <span class="icon-scss">
-                                <i class="fab fa-sass"></i>
-                                SCSS</span>
-                                <span class="skill-valor">70%</span>
-                            </div>
-                            <div class="bar100">
-                                <div class="bar__hide bar__SCSS"></div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="info">
-                            <span class="icon-git">
-                                <i class="fab fa-git-alt"></i>
-                                GIT</span>
-                                <span class="skill-valor">80%</span>
-                            </div>
-                            <div class="bar100">
-                                <div class="bar__hide bar__GIT"></div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="info">
-                            <span class="icon-react">
-                                <i class="fab fa-react"></i>
-                                REACT</span>
-                                <span class="skill-valor">20%</span>
-                            </div>
-                            <div class="bar100">
-                                <div class="bar__hide bar__REACT"></div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="info">
-                            <span class="icon-B">
-                                <i class="fab fa-bootstrap"></i>
-                                Bootstrap</span>
-                                <span class="skill-valor">90%</span>
-                            </div>
-                            <div class="bar100">
-                                <div class="bar__hide bar__Bootstrap"></div>
+           </section>
+           <!-- button scroll -->
+           <a id="btnScroll" class="btn_up-scroll" href="#body"><i class="fas fa-angle-double-up"></i></a>
+           <!-- My proyec -->
+           <section id="project" class="contain_bg-gray mb-content">
+               <div class="container  py-5">
+                   <div class="row">
+                       <h2 class="col-12 title title-h2">Proyectos</h2>
+                       <div class=" col-12 col-md-4 my-3">
+                           <div class="block-proyec">
+                               <img class="block-img " src="./assets/img/portafolio2.jpg" alt="">
+                               <!-- <img class="block-img " src="" alt="" 
+                               srcset="./assets/img/pc640.jpg 640w, ./assets/img/pc640.jpg 1920w"> -->
+                               <div class="block-proyec__bg-gray">
+                                   <a class="btn btn__proyec" href="https://franco-ps.github.io/Portafolio/">
+                                       <i class="fas fa-globe-americas fa-2x d-block"></i>
+                                    </a>
+                                   <a class="btn btn__proyec" href="https://github.com/Franco-PS/Portafolio" target="_blanck">
+                                        <i class="fab fa-github fa-2x d-block"></i>
+                                   </a>
+                               </div>
+                           </div>
+                       </div>
+                       <div class=" col-12 col-md-4 my-3">
+                        <div class="block-proyec">
+                            <img class="block-img" src="./assets/img/svgator1.jpg" alt="">
+                            <div class="block-proyec__bg-gray">
+                                <a class="btn btn__proyec" href="https://franco-ps.github.io/Tecnolog/" target="_blanck">
+                                    <i class="fas fa-globe-americas fa-2x d-block"></i>
+                                 </a>
+                                <a class="btn btn__proyec" href="https://github.com/Franco-PS/Tecnolog" target="_blanck">
+                                     <i class="fab fa-github fa-2x d-block"></i>
+                                </a>
                             </div>
                         </div>
                     </div>
-               </div>
-               <div class="col-12 col-md-6 hola">
-                    <div class="skill__box-click">
-                        <h3 class="skill__title">
-                            <i class="fas fa-swatchbook"></i>
-                            Designer web</h3>
-                    </div>
-                    <div class="skill__content my-3 ">
-                        <div>
-                            <div class="info">
-                                <span>
-                                <i class="fas fa-sitemap"></i>
-                                UX (User Experience)</span>
-                                <span class="skill-valor">20%</span>
-                            </div>
-                            <div class="bar100">
-                                <div class="bar__hide bar__UX"></div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="info">
-                            <span class="icon-css">
-                                <i class="fas fa-mobile-alt"></i>
-                                RWD (Responsive Web Design)</span>
-                                <span class="skill-valor">80%</span>
-                            </div>
-                            <div class="bar100">
-                                <div class="bar__hide bar__RWD"></div>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="info">
-                            <span class="icon-css">
-                                <i class="fab fa-markdown"></i>
-                                Markdown</span>
-                                <span class="skill-valor">60%</span>
-                            </div>
-                            <div class="bar100">
-                                <div class="bar__hide bar__Markdown"></div>
-                            </div>
-                        </div>
-                    </div>
-               </div>
-           </div>
-       </section>
-       <!-- contact -->
-       <section id="contact" class="position-relative " >
-           <img class="contact__img1" src="./assets/img/pc640.jpg" alt="">
-           <div class="container position-relative py-5 text-light">
-               <div class="row">
-                   <h2 class="col-12 title title-h2">Contact me</h2>
-                   <div class="col-12 col-md-6 contact__block">
-                       <div class="contact__block-link">
-                           <a href="https://www.linkedin.com/in/francisco-p%C3%A9rez-889189213/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                           <!-- <a href="" target="_blank"><i class="fab fa-twitter-square"></i></a> -->
-                           <a href="https://t.me/Franc584" target="_blank"><i class="fab fa-telegram"></i></a>
-                           <a id="alerWhatsApp" ><i class="fab fa-whatsapp-square"></i></a>
-                        </div>
-                        <img class="contact__img2" src="./assets/img/pc640.jpg" alt="">
-                   </div>
-                   <div class="col-12 col-md-6 ">
-                       <form class="form-block" action="https://formspree.io/f/mleaanyn" method="POST">
-                           <h3 class="text-center my-2 pb-md-3">Message me</h3>
-                           <input class="form__input" type="text" name="nombre" placeholder="Name" required>
-                           <input class="form__input" type="text" name="correo" placeholder="Email" required>
-                           <input class="form__input" type="text" name="asunto" placeholder="Subject" required>
-                           <textarea class="form__input" name="mensaje" id="" rows="5" placeholder="Message" required></textarea>
-                           
-                            <div>
-                            <button id="btn__contact" class="btn btn__contact" type="submit" value="enviar">Send message</button>
-                            </div>
-                       </form>
                    </div>
                </div>
-           </div>
-       </section>
-    </main>
-    <footer class="footer-content">
-        <div class="container">
-            <hr class="footer__line">
-            <div class="d-md-flex justify-content-center position-relative">
-                <p>Created By <span class="footer__span-text">Francisco</span> |&#xa9; 2021</p>
-                <p>Everything has its Time and its Space. </p>
-                <p>| Made with <span class="footer__span-text">&#x2764;</span></p>
+           </section>
+           <!-- skills -->
+           <section id="skills" class="container mb-content">
+               <div id="idSkill" class="row">
+                   <h2 class="col-12 title title-h2">Habilidades</h2>
+                   <div class="col-12 col-md-6">
+                       <div class="skill__box">
+                            <h3>
+                                <i class="fas fa-terminal"></i>
+                                   Frontend developen</h3>
+                        </div>
+                        <div class="skill__content my-3 ">
+                            <ul>
+                                <li>
+                                    <p><i class="fab fa-html5"></i>
+                                        HTML5</p>  
+                                </li>
+                                <li>
+                                    <p><i class="fab fa-css3-alt"></i>
+                                        CSS</p>
+                                </li>
+                                <li>
+                                    <p><i class="fab fa-js-square"></i>
+                                        JavaScript</p>
+                                </li>
+                                <li>
+                                    <p><i class="fab fa-sass"></i>
+                                        SCSS</p>
+                                </li>
+                                <li>
+                                    <p><i class="fab fa-git-alt"></i>
+                                        GIT</p>
+                                </li>
+                                <li>
+                                    <p><i class="fab fa-react"></i>
+                                        REACT</p>
+                                </li>
+                                <li>
+                                    <p><i class="fab fa-bootstrap"></i>
+                                        Bootstrap</p>
+                                </li>
+                            </ul>
+                        </div>
+                   </div>
+                   <div class="col-12 col-md-6">
+                        <div class="skill__box">
+                            <h3>
+                                <i class="fas fa-swatchbook"></i>
+                                Designer web</h3>
+                        </div>
+                        <div class="skill__content my-3 ">
+                            <ul>
+                                <li>
+                                    <p><i class="fas fa-sitemap"></i>
+                                        UX (User Experience)</p>
+                                </li>
+                                <li>
+                                    <p><i class="fas fa-mobile-alt"></i>
+                                        RWD (Responsive Web Design)</p>
+                                </li>
+                                <li>
+                                    <p><i class="fas fa-ruler-combined"></i>
+                                        Fundamentos Diseño Web</p>
+                                </li>
+                                <li>
+                                    <p><i class="fab fa-markdown"></i>
+                                        Markdown</p>
+                                </li>
+                            </ul>
+                        </div>
+                   </div>
+               </div>
+           </section>
+           <!-- contact -->
+           <section id="contact" class="position-relative " >
+               <img class="contact__img1" src="./assets/img/pc640.jpg" alt="">
+               <div class="container position-relative py-5 text-light">
+                   <div class="row">
+                       <h2 class="col-12 title title-h2">Contact me</h2>
+                       <div class="col-12 col-md-6 contact__block">
+                           <div class="contact__block-link">
+                               <a href="https://www.linkedin.com/in/francisco-p%C3%A9rez-889189213/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                               <!-- <a href="" target="_blank"><i class="fab fa-twitter-square"></i></a> -->
+                               <a href="https://t.me/Franc584" target="_blank"><i class="fab fa-telegram"></i></a>
+                               <a id="alerWhatsApp" ><i class="fab fa-whatsapp-square"></i></a>
+                            </div>
+                            <img class="contact__img2" src="./assets/img/pc640.jpg" alt="">
+                       </div>
+                       <div class="col-12 col-md-6 ">
+                           <form class="form-block" action="https://formspree.io/f/mleaanyn" method="POST">
+                               <h3 class="text-center my-2 pb-md-3">Message me</h3>
+                               <label for="nombre">
+                                   <input id="nombre" class="form__input" type="text" name="nombre" placeholder="Name" required>
+                               </label>
+                               <label for="correo">
+                                   <input id="correo" class="form__input" type="text" name="correo" placeholder="Email" required>
+                               </label>
+                               <label for="asunto">
+                                   <input id="asunto" class="form__input" type="text" name="asunto" placeholder="Subject" required>
+                               </label>
+                               <label for="mensaje">
+                                   <textarea id="mensaje" class="form__input" name="mensaje" rows="5" placeholder="Message" required></textarea>
+                               </label>
+                                <div>
+                                <input id="btn__contact" class="btn btn__contact" type="submit" value="Send message"></input>
+                                </div>
+                           </form>
+                       </div>
+                   </div>
+               </div>
+           </section>
+        </main>
+        <footer class="footer-content">
+            <div class="container">
+                <hr class="footer__line">
+                <div class="d-md-flex justify-content-center position-relative">
+                    <p>Created By <span class="footer__span-text">Francisco</span> |&#xa9; 2021</p>
+                    <p>Everything has its Time and its Space. </p>
+                    <p>| Made with <span class="footer__span-text">&#x2764;</span></p>
+                </div>
             </div>
-        </div>
-    </footer>
+        </footer>
+    </div>
 
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>

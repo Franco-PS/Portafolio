@@ -1,12 +1,15 @@
 .banner{
+    z-index: var(--z-normal);
     width: 100%;
     height: 100vh;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content:center;
+    position: sticky;
+    top: 0;
+    
 }
 .banner__img{
-    display: block;
     width: 100%;
     height: 100%;
     object-position: center;
@@ -19,20 +22,25 @@
         color: var(--color-strong-gray);
     }
 }
+.row-aline{
+    display: flex;
+    align-items: center;
+}
 .banner__text{
     font-size: var(--banner-font-size);
     font-weight: var(--slim-weight500);
 }
-.banner__text-2{
-    font-weight: calc(var(--slim-weight500) + 200);
-}
-.banner__text-3{
-    font-weight: calc(var(--slim-weight500) + 100);
-}
 .banner__text-change{
+    -webkit-text-stroke: .4px black;
     color: var(--color-first);
     @include rwd(md){
         color: var(--color-secon);
     }
 }
-
+div .banner__imgMy{
+    margin-top: 2rem;
+    width: 80%;
+    @include rwd(sm){
+        width: 100%;
+    }
+}
