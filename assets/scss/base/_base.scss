@@ -14,24 +14,32 @@ body ul{
         color: var(--color-white);
     }
 }
-.title,.footer-content {
+.footer-content {
     font-family: var(--font-famili-ubuntu);
     margin-bottom: 0;
-    &-h2{
-        text-align: center;
-        font-size: var(--h2-font-size);
-        font-weight: var(--slim-weight500);
-        padding-bottom: var(--space-yrem);
-    }
 }
 
-body h1, body h2,body h3,body h4,h5{
+body h2,body h3,body h4,h5{
     margin-bottom: 0;
+    text-align: center;
+}
+.title-h2{
+    // text-align: center;
+    font-size: var(--h2-font-size);
+    font-weight: var(--weight-normal);
+    padding-bottom: var(--space-yrem);
+}
+.title-h3{
+    font-size: var(--h3-font-size);
+    font-weight: var(--weight-normal);
 }
 #body{
     font-family: var(--font-famili-poppins);
     // z-index: var(--z-normal);
     // position: relative;
+}
+body p{
+    font-size: var(--body-font-size);
 }
 .position{
     position: relative;
