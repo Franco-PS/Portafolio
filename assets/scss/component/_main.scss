@@ -34,5 +34,29 @@ body main{
         bottom: -100%;
     }
 }
+.custom-shape-divider-top-1642273442 {
+    position: absolute;
+    // top: 0;
+    top: -53px;
+    left: 0;
+    width: 100%;
+    // margin-top: 2.8rem;
+    overflow:hidden;
+    line-height: 0;
+    // transform: rotate(180deg);
+}
 
+.custom-shape-divider-top-1642273442 svg {
+    position: relative;
+    display: block;
+    width: calc(228% + 1.3px);
+    height: 54px;
+}
+
+.custom-shape-divider-top-1642273442 .shape-fill {
+    fill: var(--color-white);
+    // background-color: ;
+    // background-color: re;
+    // clip: initial;
+}
 

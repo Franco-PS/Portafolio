@@ -19,8 +19,9 @@
   --color-alert: #F24D0A;
   --color-secon:hsl(91, 25%, 43%);
   --color-white:white;
-  --color-gray:rgba(128, 128, 128, 0.534);
-  --color-strong-gray:rgb(49, 49, 49); }
+  --color-black:rgb(5, 5, 5);
+  --color-strong-gray:rgb(49, 49, 49);
+  --color-shadow: 0 1rem 3rem rgb(5, 5, 5); }
 
 :root {
   --z-back: -10;
@@ -90,6 +91,9 @@ body p {
 .position {
   position: relative;
   z-index: var(--z-tooltip); }
+
+.boxShadow {
+  box-shadow: var(--color-shadow); }
 
 .block__window {
   z-index: var(--z-tooltip);
@@ -201,28 +205,40 @@ body p {
   color: var(--color-border); }
   @media screen and (min-width: 768px) {
     .banner__content {
-      color: var(--color-strong-gray); } }
+      color: var(--color-black); } }
 
 .row-aline {
   display: flex;
   align-items: center; }
 
+.filter {
+  box-shadow: var(--color-shadow);
+  -webkit-backdrop-filter: blur(25px);
+  backdrop-filter: blur(25px);
+  background-color: rgba(59, 56, 56, 0.726);
+  border-radius: 5px; }
+
 .banner__text {
   font-size: var(--banner-font-size);
-  font-weight: var(--weight-bold); }
+  font-weight: var(--weight-bold);
+  text-shadow: var(--color-shadow); }
 
 .banner__text-change {
   -webkit-text-stroke: .4px black;
-  color: var(--color-first); }
+  color: var(--color-black); }
   @media screen and (min-width: 768px) {
     .banner__text-change {
       color: var(--color-secon); } }
 
 div .banner__imgMy {
   margin-top: 2rem;
-  width: 80%; }
-  @media screen and (min-width: 576px) {
+  width: 80%;
+  box-shadow: var(--color-shadow);
+  border: 0 solid transparent;
+  border-radius: 15px; }
+  @media screen and (min-width: 768px) {
     div .banner__imgMy {
+      margin-top: 0;
       width: 100%; } }
 
 .mb-content {
@@ -231,6 +247,7 @@ div .banner__imgMy {
 .block-img {
   width: 100%;
   height: auto;
+  margin: .5rem;
   object-fit: cover;
   object-position: center;
   border-radius: 1rem; }
@@ -318,6 +335,23 @@ body main {
   @media screen and (min-width: 768px) {
     .block-proyec__bg-gray {
       bottom: -100%; } }
+
+.custom-shape-divider-top-1642273442 {
+  position: absolute;
+  top: -53px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0; }
+
+.custom-shape-divider-top-1642273442 svg {
+  position: relative;
+  display: block;
+  width: calc(228% + 1.3px);
+  height: 54px; }
+
+.custom-shape-divider-top-1642273442 .shape-fill {
+  fill: var(--color-white); }
 
 .skill__box {
   padding: 1rem 1rem; }

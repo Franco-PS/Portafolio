@@ -45,3 +45,6 @@ body p{
     position: relative;
     z-index: var(--z-tooltip);
 }
+.boxShadow{
+    box-shadow: var(--color-shadow);
+}
