@@ -8,7 +8,7 @@
    height="2200"
    viewBox="0 0 1700 2200"
    sodipodi:docname="Francisco-cv.svg"
-   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
    inkscape:export-filename="/home/tronko/Downloads/22.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -59,7 +59,7 @@
        x2="1757.7112"
        y2="177.52271"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0062061,0,0,1.2618441,-1.9700684,-8.4038782)" />
+       gradientTransform="matrix(1.0078873,0,0,1.2618441,-1.9705914,-8.403878)" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -108,8 +108,8 @@
      showgrid="false"
      inkscape:snap-text-baseline="false"
      inkscape:zoom="0.53997245"
-     inkscape:cx="785.22525"
-     inkscape:cy="996.34713"
+     inkscape:cx="985.23545"
+     inkscape:cy="916.71344"
      inkscape:window-width="1920"
      inkscape:window-height="1055"
      inkscape:window-x="1920"
@@ -136,10 +136,10 @@
      inkscape:label="box"
      style="display:inline;opacity:1">
     <rect
-       style="fill:#263548;fill-opacity:0.99862885;fill-rule:nonzero;stroke:none;stroke-width:1.08014;stroke-opacity:1"
+       style="fill:#263548;fill-opacity:0.998629;fill-rule:nonzero;stroke:none;stroke-width:1.08263;stroke-opacity:1"
        id="rect359615"
        width="695.43176"
-       height="1836.6096"
+       height="1845.0959"
        x="-0.3814944"
        y="362.26474" />
   </g>
@@ -149,7 +149,7 @@
      inkscape:label="icon">
     <g
        id="g6681"
-       transform="translate(-66.374327,-366.53774)"
+       transform="translate(-65.684902,-495.46438)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -179,15 +179,15 @@
      inkscape:label="perfil"
      style="display:inline">
     <rect
-       style="display:inline;fill:url(#linearGradient39258);fill-opacity:1;stroke:none;stroke-width:1.03967;stroke-opacity:1"
+       style="display:inline;fill:url(#linearGradient39258);fill-opacity:1;stroke:none;stroke-width:1.04054;stroke-opacity:1"
        id="rect928"
-       width="1707.7478"
+       width="1710.6011"
        height="371.46063"
-       x="-1.6362168"
-       y="-5.4100399"
-       inkscape:transform-center-x="-159.41173"
-       inkscape:transform-center-y="11.019642"
-       transform="matrix(0.99999999,-1.4327923e-4,0.00381505,0.99999272,0,0)"
+       x="-1.6361823"
+       y="-5.4100394"
+       inkscape:transform-center-x="-159.67805"
+       inkscape:transform-center-y="11.019638"
+       transform="matrix(0.99999999,-1.4304024e-4,0.00382143,0.9999927,0,0)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -224,7 +224,7 @@
          id="tspan11867"
          x="454.43762"
          y="198.20956"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.997322">Desarrollador Frontend jr</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.997322">Desarrollador Frontend Jr</tspan><tspan
          sodipodi:role="line"
          x="454.43762"
          y="248.20956"
@@ -305,12 +305,12 @@
        xml:space="preserve"
        style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';display:inline;fill:#6d8952;fill-opacity:1"
        x="39.085754"
-       y="819.98431"
+       y="589.98431"
        id="text73285-3"><tspan
          sodipodi:role="line"
          id="tspan73283-9"
          x="39.085754"
-         y="819.98431"
+         y="589.98431"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6d8952;fill-opacity:1">Certificaciones (2021)</tspan></text>
     <text
        xml:space="preserve"
@@ -337,12 +337,12 @@
        xml:space="preserve"
        style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';display:inline;fill:#6d8952;fill-opacity:1"
        x="37.718567"
-       y="1467.626"
+       y="1489.626"
        id="text73285-38"><tspan
          sodipodi:role="line"
          id="tspan73283-1"
          x="37.718567"
-         y="1467.626"
+         y="1489.626"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6d8952;fill-opacity:1">Intereses</tspan></text>
     <text
        xml:space="preserve"
@@ -368,15 +368,25 @@
          sodipodi:role="line"
          x="809.24225"
          y="1907.9832"
-         id="tspan282389">Idioma: inglés (comprensión lectora)</tspan><tspan
+         id="tspan282389">Idioma: inglés (comprensión lectora) autualmente sigo </tspan><tspan
          sodipodi:role="line"
          x="809.24225"
          y="1944.6498"
-         id="tspan282391">Disponibilidad de cambio de residencia: si</tspan><tspan
+         id="tspan8176">capacitandome</tspan><tspan
          sodipodi:role="line"
          x="809.24225"
          y="1981.3164"
-         id="tspan48187">Manejode Linux/Windows como Sistemas Operativos.</tspan></text>
+         id="tspan282391">Disponibilidad de cambio de residencia: si</tspan><tspan
+         sodipodi:role="line"
+         x="809.24225"
+         y="2017.983"
+         id="tspan48187">Conocimiento en el manejo de  <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan12229">Linux</tspan>/Windows </tspan><tspan
+         sodipodi:role="line"
+         x="809.24225"
+         y="2054.6497"
+         id="tspan44928">como Sistemas Operativos.</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';display:inline;fill:#6d8952;fill-opacity:1"
@@ -448,7 +458,7 @@
     </g>
     <g
        id="g3876"
-       transform="translate(-63.842894,-134)"
+       transform="translate(-63.153469,-77.096561)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -473,7 +483,7 @@
     </g>
     <g
        id="g6687"
-       transform="translate(-66.374327,-176.57192)"
+       transform="translate(-65.684902,-252.24868)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -494,11 +504,11 @@
            sodipodi:role="line"
            x="171.17592"
            y="1448.1857"
-           id="tspan294236">Git - GitHub Gestor de versiones</tspan></text>
+           id="tspan294236">Git - Gestor de versiones</tspan></text>
     </g>
     <g
        id="g6468"
-       transform="translate(-64.680058,30.601779)"
+       transform="translate(-63.153469,-43.945093)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -523,7 +533,7 @@
     </g>
     <g
        id="g6468-7"
-       transform="translate(-62.828112,145.71856)"
+       transform="translate(-63.153469,68.838802)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -544,11 +554,90 @@
            sodipodi:role="line"
            x="163.0049"
            y="1180.5754"
-           id="tspan312448-5">Manejo de la Terminal-Linux</tspan></text>
+           id="tspan312448-5">Manejo de la <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan18265">Terminal-Linux</tspan></tspan></text>
+    </g>
+    <g
+       id="g6468-7-1"
+       transform="translate(-63.153469,128.2171)"
+       inkscape:export-filename="/home/tronko/Downloads/path32711.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="display:inline;fill:#ffffff;fill-opacity:1">
+      <ellipse
+         style="opacity:0.518164;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path243679-5-1-5"
+         cx="140.17883"
+         cy="1173.1633"
+         rx="7.9792771"
+         ry="8.0378542" />
+      <text
+         xml:space="preserve"
+         style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none;fill:#ffffff;fill-opacity:1"
+         x="163.0049"
+         y="1180.5754"
+         id="text312446-1-9"><tspan
+           sodipodi:role="line"
+           x="163.0049"
+           y="1180.5754"
+           id="tspan312448-5-4"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan4584">Debugging</tspan> V8.</tspan></text>
+    </g>
+    <g
+       id="g6468-7-1-5"
+       transform="translate(-63.153469,187.88185)"
+       inkscape:export-filename="/home/tronko/Downloads/path32711.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="display:inline;fill:#ffffff;fill-opacity:1">
+      <ellipse
+         style="opacity:0.518164;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path243679-5-1-5-9"
+         cx="140.17883"
+         cy="1173.1633"
+         rx="7.9792771"
+         ry="8.0378542" />
+      <text
+         xml:space="preserve"
+         style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none;fill:#ffffff;fill-opacity:1"
+         x="163.0049"
+         y="1180.5754"
+         id="text312446-1-9-4"><tspan
+           sodipodi:role="line"
+           x="163.0049"
+           y="1180.5754"
+           id="tspan312448-5-4-9">Base de datos  MySQL</tspan></text>
+    </g>
+    <g
+       id="g6468-7-1-5-7"
+       transform="translate(-63.153469,247.17425)"
+       inkscape:export-filename="/home/tronko/Downloads/path32711.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="display:inline;fill:#ffffff;fill-opacity:1">
+      <ellipse
+         style="opacity:0.518164;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path243679-5-1-5-9-7"
+         cx="140.17883"
+         cy="1173.1633"
+         rx="7.9792771"
+         ry="8.0378542" />
+      <text
+         xml:space="preserve"
+         style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none;fill:#ffffff;fill-opacity:1"
+         x="163.0049"
+         y="1180.5754"
+         id="text312446-1-9-4-1"><tspan
+           sodipodi:role="line"
+           x="163.0049"
+           y="1180.5754"
+           id="tspan312448-5-4-9-1">Python</tspan></text>
     </g>
     <g
        id="g45766"
-       transform="translate(-69.085556,-110.00002)"
+       transform="translate(-60.988262,-148.23355)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -569,13 +658,15 @@
            sodipodi:role="line"
            x="165.1149"
            y="796.39813"
-           id="tspan343744">Curso en Gestión de proyectos con </tspan><tspan
+           id="tspan343744">Gestión de proyectos con metodologías</tspan><tspan
            sodipodi:role="line"
            x="165.1149"
            y="833.06476"
            id="tspan343746"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1"
-   id="tspan54522">metodologías ágiles</tspan> (Miradax- 2020)</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1"
+   id="tspan54522">ágiles</tspan> (<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan98349">SCRUM</tspan>) (Miradax- 2020)</tspan><tspan
            sodipodi:role="line"
            x="165.1149"
            y="869.73138"
@@ -583,7 +674,7 @@
     </g>
     <g
        id="g6462"
-       transform="translate(-63.842894,-166.07225)"
+       transform="translate(-63.153469,-350.53673)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -607,8 +698,33 @@
            y="1131.6993">Programación Orientada a Objetos POO</tspan></text>
     </g>
     <g
+       id="g6462-3"
+       transform="translate(-57.61164,-611.63137)"
+       inkscape:export-filename="/home/tronko/Downloads/path32711.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="display:inline;fill:#ffffff;fill-opacity:1">
+      <ellipse
+         style="opacity:0.518164;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path243679-1-9"
+         cx="140.17883"
+         cy="1121.611"
+         rx="7.9792771"
+         ry="8.0378542" />
+      <text
+         xml:space="preserve"
+         style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none;fill:#ffffff;fill-opacity:1"
+         x="164.3391"
+         y="1131.6993"
+         id="text370668-4"><tspan
+           sodipodi:role="line"
+           id="tspan370666-8"
+           x="164.3391"
+           y="1131.6993">Edteam | Platzi | Miradax</tspan></text>
+    </g>
+    <g
        id="g6474"
-       transform="translate(-66.374327,-138.00299)"
+       transform="translate(-65.684902,-211.42029)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -633,7 +749,7 @@
     </g>
     <g
        id="g50705"
-       transform="translate(-1.6236175,-1183.4155)"
+       transform="translate(2.6069071,-841.12321)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -655,13 +771,9 @@
            y="1705.9506"
            id="text404322"><tspan
              sodipodi:role="line"
-             id="tspan404320"
              x="100.00932"
-             y="1705.9506">JavaScript POO basada en Prototipos</tspan><tspan
-             sodipodi:role="line"
-             x="100.00932"
-             y="1742.6172"
-             id="tspan112997">(Platzi - 2022)</tspan></text>
+             y="1705.9506"
+             id="tspan112997">JavaScript POO basada en prototipos</tspan></text>
       </g>
     </g>
     <g
@@ -694,7 +806,7 @@
              sodipodi:role="line"
              x="100.06661"
              y="1792.9385"
-             id="tspan50734"> y realizar caminatas</tspan></text>
+             id="tspan50734">la fotografía y realizar caminatas</tspan></text>
       </g>
     </g>
     <g
@@ -757,7 +869,7 @@
     </g>
     <g
        id="g6676"
-       transform="translate(-66.374327,-173.0235)"
+       transform="translate(-65.684902,-250.22382)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -778,7 +890,7 @@
            sodipodi:role="line"
            id="tspan495960"
            x="166.87599"
-           y="1327.5475">Principios en UX</tspan></text>
+           y="1327.5475">Principios de UX</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -792,61 +904,54 @@
        inkscape:export-ydpi="96"><tspan
          x="863.42206"
          y="695.2854"
-         id="tspan6162">        Realizo sitios estáticos para los <tspan
+         id="tspan57940">  Realizo sitios estáticos para los <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan6160">sectores e-commerce</tspan>, busco </tspan><tspan
+   id="tspan57938">sectores e-commerce</tspan>, y busco </tspan><tspan
          x="863.42206"
          y="731.95201"
-         id="tspan6166">colaborar en equipo como <tspan
+         id="tspan57944">colaborar en equipo como <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan6164">Desarrollador de Software Jr</tspan>, me gusta  </tspan><tspan
+   id="tspan57942">desarrollador Jr.</tspan> Me gusta realizar </tspan><tspan
          x="863.42206"
          y="768.61863"
-         id="tspan6172">realizar código limpio (<tspan
+         id="tspan57950">código limpio (<tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan6168">Mobile First</tspan> y <tspan
+   id="tspan57946">Mobile First</tspan> y <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan6170">BEM</tspan>), y apoyar en los roles </tspan><tspan
+   id="tspan57948">BEM</tspan>), y apoyar en los roles del </tspan><tspan
          x="863.42206"
          y="805.28526"
-         id="tspan6178">del <tspan
+         id="tspan57958"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan6174">Scrum</tspan> y a los diseñadores sobre todo en la <tspan
+   id="tspan57952">SCRUM</tspan> y a los diseñadores en <tspan
+   style="-inkscape-font-specification:Arial"
+   id="tspan57954">la</tspan><tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan6176">Arquitectura</tspan> de la </tspan><tspan
+   id="tspan57956"> experiencia de usuario (UX)</tspan> </tspan><tspan
          x="863.42206"
          y="841.95188"
-         id="tspan6182"><tspan
+         id="tspan57964">sobre todo en la <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan6180">Información</tspan>, de igual forma cuento con experiencia y </tspan><tspan
+   id="tspan57960">arquitectura</tspan> de la <tspan
+   style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
+   id="tspan57962">información</tspan>, de la cual cuento </tspan><tspan
          x="863.42206"
          y="878.61851"
-         id="tspan6184">capacitaciones constantes en dichas áreas.
+         id="tspan57966">con experiencia.
 </tspan><tspan
          x="863.42206"
          y="915.28514"
-         id="tspan6186">
+         id="tspan57968">
 </tspan><tspan
          x="863.42206"
          y="951.95176"
-         id="tspan6192">Actualmente estoy aprendiendo sobre <tspan
+         id="tspan57972">Actualmente estoy capacitandome en la rama de <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan6188">Base de datos</tspan> y <tspan
-   style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan6190">Reac-Js
-</tspan></tspan><tspan
-         x="863.42206"
-         y="988.61839"
-         id="tspan6200"><tspan
-           style="-inkscape-font-specification:Arial"
-           id="tspan6194">y tengo mucho interes en aprender </tspan><tspan
-           style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-           id="tspan6196">.NET</tspan><tspan
-           style="-inkscape-font-specification:Arial"
-           id="tspan6198">.</tspan></tspan></text>
+   id="tspan57970">base de datos.
+</tspan></tspan></text>
     <g
        id="g45759"
-       transform="translate(-70,-118.00002)"
+       transform="translate(-60.988262,183.80599)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -854,24 +959,20 @@
       <ellipse
          style="opacity:0.518164;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path243679-73"
-         cx="138.01363"
-         cy="696.07336"
+         cx="-269.31647"
+         cy="775.71429"
          rx="7.9792771"
          ry="8.0378542" />
       <text
          xml:space="preserve"
          style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none;fill:#ffffff;fill-opacity:1"
-         x="165.1149"
-         y="705.61176"
+         x="-242.21518"
+         y="785.25269"
          id="text165642"><tspan
            sodipodi:role="line"
-           id="tspan165640"
-           x="165.1149"
-           y="705.61176">Curso Profesional Desarrollador Web</tspan><tspan
-           sodipodi:role="line"
-           x="165.1149"
-           y="742.27838"
-           id="tspan165644">(Códigofacilito- 2020 - Platzy- 2021)</tspan></text>
+           x="-242.21518"
+           y="785.25269"
+           id="tspan165644">Desarrollador Web</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -922,8 +1023,18 @@
     <ellipse
        style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path243679-15-8-8"
-       cx="777.42853"
-       cy="1151.8125"
+       cx="-78.170456"
+       cy="1128.2981"
+       rx="7.9792771"
+       ry="8.0378542"
+       inkscape:export-filename="/home/tronko/Downloads/path32711.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path243679-15-8-8-3"
+       cx="777.07721"
+       cy="1113.1678"
        rx="7.9792771"
        ry="8.0378542"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
@@ -933,7 +1044,7 @@
        style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path243679-15-8-6"
        cx="777.42853"
-       cy="1259.2887"
+       cy="1263.2887"
        rx="7.9792771"
        ry="8.0378542"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
@@ -943,7 +1054,7 @@
        style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path243679-15-8-6-7"
        cx="778.18512"
-       cy="1186.5046"
+       cy="1226.5046"
        rx="7.9792771"
        ry="8.0378542"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
@@ -961,65 +1072,49 @@
          sodipodi:role="line"
          x="798.20905"
          y="1088.3629"
-         id="tspan168208">Elaboración y diseño de sitios estáticos ocupando <tspan
+         id="tspan26611">Desarrollo de sitios estáticos con: <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan51451">Html,</tspan></tspan><tspan
+   id="tspan6776">SCSS </tspan><tspan
+   id="tspan48852"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">ocupando  Node-Js</tspan></tspan><tspan
          sodipodi:role="line"
          x="798.20905"
          y="1125.0295"
-         id="tspan31682"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan195759">Scss,JavaScript (DOM)</tspan>y como framework <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan40665">Bootstrap <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
-   id="tspan16084">y</tspan> Node-js</tspan></tspan><tspan
+         id="tspan23722">Elaboración y diseño Web basados en experiencia de Usuario</tspan><tspan
          sodipodi:role="line"
          x="798.20905"
          y="1161.6962"
-         id="tspan265511">Manejo de <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan273285">Git</tspan> y <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan271213">GitHub, npm </tspan><tspan
-   id="tspan15884"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">(como manejador de paquetes</tspan>)</tspan><tspan
+         id="tspan35081">(UX), ocupando como pilar la arquitctura de la información</tspan><tspan
          sodipodi:role="line"
          x="798.20905"
          y="1198.3628"
-         id="tspan37996">Realizo proyectos con metodologías ágiles (<tspan
+         id="tspan39403">en la elaboración de <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan275717">scrum</tspan>) ocupando</tspan><tspan
+   id="tspan46151">wireframes</tspan></tspan><tspan
          sodipodi:role="line"
          x="798.20905"
          y="1235.0294"
-         id="tspan199119">como herramienta <tspan
+         id="tspan23713">Gestionar versiones con <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan273285">Git</tspan> y <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan271213">GitHub.</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="798.20905"
+         y="1271.696"
+         id="tspan199119">Manejo de metodologías ágiles (<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan53283">SCRUM</tspan>) ocupando como </tspan><tspan
+         sodipodi:role="line"
+         x="798.20905"
+         y="1308.3627"
+         id="tspan87280">herramienta <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan4328">Trello.</tspan></tspan><tspan
          sodipodi:role="line"
          x="798.20905"
-         y="1271.696"
-         id="tspan1317">Estructura de páginas ocupando <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan16841">Arquitctura</tspan> de <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan20977">Información </tspan><tspan
-   id="tspan5612"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">y</tspan></tspan><tspan
-         sodipodi:role="line"
-         x="798.20905"
-         y="1308.3627"
-         id="tspan67214"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan13702">Diseño Web</tspan> basados en <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan37486">UX</tspan> (Experiencia de Usuario).</tspan><tspan
-         sodipodi:role="line"
-         x="798.20905"
          y="1345.0293"
-         id="tspan182229">Elaboro de igual forma un blog en <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan35647">WordPress</tspan> .</tspan></text>
+         id="tspan182229" /></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none;display:inline"
@@ -1037,7 +1132,7 @@
          sodipodi:role="line"
          x="850.54541"
          y="1465.6018"
-         id="tspan46070">Prácticante en Desarrollador Frontend</tspan><tspan
+         id="tspan46070">Desarrollador Frontend</tspan><tspan
          sodipodi:role="line"
          x="850.54541"
          y="1502.2684"
@@ -1072,16 +1167,6 @@
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <ellipse
-       style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path243679-15-8-89"
-       cx="778.65936"
-       cy="1337.8097"
-       rx="7.9792771"
-       ry="8.0378542"
-       inkscape:export-filename="/home/tronko/Downloads/path32711.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none;display:inline"
@@ -1096,9 +1181,9 @@
          y="1513.5958"
          id="tspan31680-8">Elaboración de landing page con <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan109088">Html<tspan
+   id="tspan109088">HTML<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
-   id="tspan228135">,</tspan>Css<tspan
+   id="tspan228135">,</tspan>CSS<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
    id="tspan224149">,</tspan> JavaScript<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
@@ -1110,23 +1195,19 @@
    id="tspan27396"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">ocupando</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan8026"> XAMPP, Node-js con Sass</tspan> y framework: <tspan
+   id="tspan8026"> XAMPP</tspan> y framework como: <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan4423">Bootstrap.</tspan> </tspan><tspan
+   id="tspan4423">Bootstrap 4 - 5.</tspan> </tspan><tspan
          sodipodi:role="line"
          x="799.43988"
          y="1586.9291"
-         id="tspan103320">Manejo de <tspan
+         id="tspan103320">Manejo FileZilla (protocolo <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan25665">Git</tspan> y FileZilla (para la transferencia de datos)</tspan><tspan
+   id="tspan3345">FTP</tspan>)</tspan><tspan
          sodipodi:role="line"
          x="799.43988"
          y="1623.5957"
-         id="tspan37998-4">Coordinación y diseño de los sitios web con el departamento de </tspan><tspan
-         sodipodi:role="line"
-         x="799.43988"
-         y="1660.2623"
-         id="tspan38002-3">diseño.</tspan></text>
+         id="tspan38002-3">Elaboración del diseño de los sitios web </tspan></text>
     <g
        id="g27873"
        transform="translate(0,40)">
@@ -1152,7 +1233,7 @@
                id="tspan28033"
                x="331.27151"
                y="1889.5369"
-               style="fill:#ffffff;fill-opacity:1">Repositorio</tspan></text>
+               style="fill:#ffffff;fill-opacity:1">Repositorio GitHub</tspan></text>
         </a>
       </g>
       <g
@@ -1218,13 +1299,14 @@
            inkscape:export-ydpi="96" />
         <a
            id="a64467"
-           xlink:href="https://www.linkedin.com/in/francisco-p%C3%A9rez-889189213/"
+           xlink:href="https://mx.linkedin.com/in/francisco-gerardo-pérez-salazar-889189213"
            transform="translate(-158.69635,59.975086)"
            style="fill:#0a66c2;fill-opacity:1"
            inkscape:export-filename="/home/tronko/Downloads/path32711.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96"
-           xlink:actuate="https://www.linkedin.com/in/francisco-p%C3%A9rez-889189213/">
+           xlink:actuate=""
+           xlink:show="new">
           <a
              id="a64493"
              xlink:actuate=""
