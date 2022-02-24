@@ -8,7 +8,7 @@
    height="2200"
    viewBox="0 0 1700 2200"
    sodipodi:docname="Francisco-cv.svg"
-   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   inkscape:version="1.1.2 (1:1.1+202202050942+0a00cf5339)"
    inkscape:export-filename="/home/tronko/Downloads/22.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -108,10 +108,10 @@
      showgrid="false"
      inkscape:snap-text-baseline="false"
      inkscape:zoom="0.53997245"
-     inkscape:cx="985.23545"
-     inkscape:cy="916.71344"
+     inkscape:cx="993.56921"
+     inkscape:cy="1501.9285"
      inkscape:window-width="1920"
-     inkscape:window-height="1055"
+     inkscape:window-height="1054"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -149,7 +149,7 @@
      inkscape:label="icon">
     <g
        id="g6681"
-       transform="translate(-65.684902,-495.46438)"
+       transform="translate(-65.684902,-435.46438)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -224,7 +224,7 @@
          id="tspan11867"
          x="454.43762"
          y="198.20956"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.997322">Desarrollador Frontend Jr</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.997322">Desarrollador Front End Jr</tspan><tspan
          sodipodi:role="line"
          x="454.43762"
          y="248.20956"
@@ -252,11 +252,11 @@
        id="path359826-2-0" />
     <path
        style="display:inline;fill:#6d8952;fill-opacity:0.780392;stroke:#6d8952;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.831373"
-       d="M 696.27599,1737.5819 H 1700.7575"
+       d="M 696.27599,1829.5819 H 1700.7575"
        id="path359826-2-0-4" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold'"
+       style="font-weight:bold;font-size:40px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="774.83826"
        y="443.23254"
        id="text73285"><tspan
@@ -264,18 +264,18 @@
          id="tspan73283"
          x="774.83826"
          y="443.23254"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Perfil</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Perfil</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';display:inline"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline"
        x="775.97107"
-       y="915.98431"
+       y="975.98431"
        id="text73285-0"><tspan
          sodipodi:role="line"
          id="tspan73283-4"
          x="775.97107"
-         y="915.98431"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Experiecia profesional</tspan></text>
+         y="975.98431"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Experiecia profesional</tspan></text>
     <path
        fill="currentColor"
        d="m -667.82111,816.31422 2.88022,28.3829 12.96498,3.7433 12.96501,-3.7433 2.88018,-28.3829 z m 25.83922,5.7368 -0.39607,3.3918 -9.51541,3.5354 -0.025,0.01 h 9.20178 l -1.05634,10.5127 -8.10419,2.0581 -8.15366,-2.0939 -0.52817,-5.2994 h 4.0356 l 0.26407,2.7464 4.34091,0.9538 4.51426,-1.1043 0.30532,-4.4175 -13.72423,-0.035 v -0.01 l -0.0163,0.01 -0.29709,-3.3202 9.2513,-3.3489 0.5364,-0.1936 h -10.14253 l -0.47866,-3.3919 z"
@@ -303,26 +303,26 @@
        style="fill:#ff8080;stroke-width:0.0552232" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';display:inline;fill:#6d8952;fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#6d8952;fill-opacity:1"
        x="39.085754"
-       y="589.98431"
+       y="649.98431"
        id="text73285-3"><tspan
          sodipodi:role="line"
          id="tspan73283-9"
          x="39.085754"
-         y="589.98431"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6d8952;fill-opacity:1">Certificaciones (2021)</tspan></text>
+         y="649.98431"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6d8952;fill-opacity:1">Certificaciones (2021)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';display:inline;fill:#6d8952;fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#6d8952;fill-opacity:1"
        x="37.952942"
-       y="442.72119"
+       y="443.23254"
        id="text73285-2"><tspan
          sodipodi:role="line"
          id="tspan73283-5"
          x="37.952942"
-         y="442.72119"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6d8952;fill-opacity:1">Educación</tspan></text>
+         y="443.23254"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6d8952;fill-opacity:1">Educación</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold'"
@@ -335,7 +335,7 @@
          y="950.82556" /></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';display:inline;fill:#6d8952;fill-opacity:1"
+       style="font-weight:bold;font-size:40px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';display:inline;fill:#6d8952;fill-opacity:1;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="37.718567"
        y="1489.626"
        id="text73285-38"><tspan
@@ -343,53 +343,45 @@
          id="tspan73283-1"
          x="37.718567"
          y="1489.626"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6d8952;fill-opacity:1">Intereses</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6d8952;fill-opacity:1">Intereses</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';display:inline"
+       style="font-weight:bold;font-size:40px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';display:inline;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="798.25671"
-       y="1793.0347"
+       y="1885.0347"
        id="text73285-33"><tspan
          sodipodi:role="line"
          id="tspan73283-8"
          x="798.25671"
-         y="1793.0347"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Información adicional</tspan></text>
+         y="1885.0347"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Información adicional</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none"
        x="809.24225"
-       y="1871.3165"
+       y="1963.3165"
        id="text282387"><tspan
          sodipodi:role="line"
          id="tspan282385"
          x="809.24225"
-         y="1871.3165">Estado civil: Solter</tspan><tspan
+         y="1963.3165">Estado civil: solter</tspan><tspan
          sodipodi:role="line"
          x="809.24225"
-         y="1907.9832"
-         id="tspan282389">Idioma: inglés (comprensión lectora) autualmente sigo </tspan><tspan
+         y="1999.9832"
+         id="tspan8176">Idioma: inglés (comprensión lectora)</tspan><tspan
          sodipodi:role="line"
          x="809.24225"
-         y="1944.6498"
-         id="tspan8176">capacitandome</tspan><tspan
-         sodipodi:role="line"
-         x="809.24225"
-         y="1981.3164"
+         y="2036.6498"
          id="tspan282391">Disponibilidad de cambio de residencia: si</tspan><tspan
          sodipodi:role="line"
          x="809.24225"
-         y="2017.983"
-         id="tspan48187">Conocimiento en el manejo de  <tspan
+         y="2073.3164"
+         id="tspan44928">Entorno de trabajo:  <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan12229">Linux</tspan>/Windows </tspan><tspan
-         sodipodi:role="line"
-         x="809.24225"
-         y="2054.6497"
-         id="tspan44928">como Sistemas Operativos.</tspan></text>
+   id="tspan12229">Linux </tspan>/ Windows.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';display:inline;fill:#6d8952;fill-opacity:1"
+       style="font-weight:bold;font-size:40px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';display:inline;fill:#6d8952;fill-opacity:1;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
        x="39.085754"
        y="1862.3164"
        id="text73285-1"><tspan
@@ -397,7 +389,7 @@
          id="tspan73283-99"
          x="39.085754"
          y="1862.3164"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6d8952;fill-opacity:1">Contacto</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6d8952;fill-opacity:1">Contacto</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold'"
@@ -458,7 +450,7 @@
     </g>
     <g
        id="g3876"
-       transform="translate(-63.153469,-77.096561)"
+       transform="translate(-63.153469,-17.096561)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -483,7 +475,7 @@
     </g>
     <g
        id="g6687"
-       transform="translate(-65.684902,-252.24868)"
+       transform="translate(-65.684902,-192.24868)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -508,7 +500,7 @@
     </g>
     <g
        id="g6468"
-       transform="translate(-63.153469,-43.945093)"
+       transform="translate(-63.153469,16.054907)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -533,7 +525,7 @@
     </g>
     <g
        id="g6468-7"
-       transform="translate(-63.153469,68.838802)"
+       transform="translate(-63.153469,128.8388)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -560,7 +552,7 @@
     </g>
     <g
        id="g6468-7-1"
-       transform="translate(-63.153469,128.2171)"
+       transform="translate(-63.153469,188.2171)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -583,11 +575,11 @@
            y="1180.5754"
            id="tspan312448-5-4"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan4584">Debugging</tspan> V8.</tspan></text>
+   id="tspan4584">Debugging</tspan>.</tspan></text>
     </g>
     <g
        id="g6468-7-1-5"
-       transform="translate(-63.153469,187.88185)"
+       transform="translate(-539.96491,90.367788)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -612,7 +604,7 @@
     </g>
     <g
        id="g6468-7-1-5-7"
-       transform="translate(-63.153469,247.17425)"
+       transform="translate(-539.96491,149.66019)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -637,7 +629,7 @@
     </g>
     <g
        id="g45766"
-       transform="translate(-60.988262,-148.23355)"
+       transform="translate(-60.988262,-88.23355)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -674,7 +666,7 @@
     </g>
     <g
        id="g6462"
-       transform="translate(-63.153469,-350.53673)"
+       transform="translate(-63.153469,-290.53673)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -724,7 +716,7 @@
     </g>
     <g
        id="g6474"
-       transform="translate(-65.684902,-211.42029)"
+       transform="translate(-65.684902,-151.42029)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -749,7 +741,7 @@
     </g>
     <g
        id="g50705"
-       transform="translate(2.6069071,-841.12321)"
+       transform="translate(2.6069071,-781.12321)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -802,11 +794,11 @@
              sodipodi:role="line"
              id="tspan404320-9"
              x="100.06661"
-             y="1756.2719">Me gusta dibujar, leer (ciencia ficción), </tspan><tspan
+             y="1756.2719">Me gusta dibujar, leer ( ciencia ficción )</tspan><tspan
              sodipodi:role="line"
              x="100.06661"
              y="1792.9385"
-             id="tspan50734">la fotografía y realizar caminatas</tspan></text>
+             id="tspan50734">la fotografía y realizar caminatas.</tspan></text>
       </g>
     </g>
     <g
@@ -869,7 +861,7 @@
     </g>
     <g
        id="g6676"
-       transform="translate(-65.684902,-250.22382)"
+       transform="translate(-65.684902,-190.22382)"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
@@ -904,51 +896,61 @@
        inkscape:export-ydpi="96"><tspan
          x="863.42206"
          y="695.2854"
-         id="tspan57940">  Realizo sitios estáticos para los <tspan
+         id="tspan47800">  Realizo sitios estáticos para el <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan57938">sectores e-commerce</tspan>, y busco </tspan><tspan
+   id="tspan47798">sector e-commerce</tspan>, y busco </tspan><tspan
          x="863.42206"
          y="731.95201"
-         id="tspan57944">colaborar en equipo como <tspan
+         id="tspan47804">colaborar en equipo como <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan57942">desarrollador Jr.</tspan> Me gusta realizar </tspan><tspan
+   id="tspan47802">desarrollador Web.</tspan> Me gusta realizar </tspan><tspan
          x="863.42206"
          y="768.61863"
-         id="tspan57950">código limpio (<tspan
+         id="tspan47810">código limpio (<tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan57946">Mobile First</tspan> y <tspan
+   id="tspan47806">Mobile First</tspan> y <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan57948">BEM</tspan>), y apoyar en los roles del </tspan><tspan
+   id="tspan47808">BEM</tspan>), y apoyar en los roles del </tspan><tspan
          x="863.42206"
          y="805.28526"
-         id="tspan57958"><tspan
+         id="tspan47818"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan57952">SCRUM</tspan> y a los diseñadores en <tspan
+   id="tspan47812">SCRUM</tspan> y a los diseñadores en <tspan
    style="-inkscape-font-specification:Arial"
-   id="tspan57954">la</tspan><tspan
+   id="tspan47814">la</tspan><tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan57956"> experiencia de usuario (UX)</tspan> </tspan><tspan
+   id="tspan47816"> experiencia de usuario (UX)</tspan> </tspan><tspan
          x="863.42206"
          y="841.95188"
-         id="tspan57964">sobre todo en la <tspan
+         id="tspan47824">sobre todo en la <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan57960">arquitectura</tspan> de la <tspan
+   id="tspan47820">arquitectura</tspan> de la <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan57962">información</tspan>, de la cual cuento </tspan><tspan
+   id="tspan47822">información</tspan>, de la cual me </tspan><tspan
          x="863.42206"
          y="878.61851"
-         id="tspan57966">con experiencia.
+         id="tspan47826">encanta realizar y cuento con experiencia.
 </tspan><tspan
          x="863.42206"
          y="915.28514"
-         id="tspan57968">
+         id="tspan47828">
 </tspan><tspan
          x="863.42206"
          y="951.95176"
-         id="tspan57972">Actualmente estoy capacitandome en la rama de <tspan
+         id="tspan47834">Actualmente estoy capacitandome en <tspan
    style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-   id="tspan57970">base de datos.
-</tspan></tspan></text>
+   id="tspan47830">PHP</tspan> sobre el manejo <tspan
+   style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
+   id="tspan47832">base </tspan></tspan><tspan
+         x="863.42206"
+         y="988.61839"
+         id="tspan47842"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
+           id="tspan47836">de datos </tspan><tspan
+           style="-inkscape-font-specification:Arial"
+           id="tspan47838">con</tspan><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
+           id="tspan47840"> MySQL.</tspan></tspan></text>
     <g
        id="g45759"
        transform="translate(-60.988262,183.80599)"
@@ -992,7 +994,7 @@
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none"
        x="849.31458"
-       y="1007.1078"
+       y="1073.1078"
        id="text23084"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
@@ -1000,21 +1002,21 @@
          sodipodi:role="line"
          id="tspan23082"
          x="849.31458"
-         y="1007.1078"
+         y="1073.1078"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Freelancer 2021- actualidad</tspan><tspan
          sodipodi:role="line"
          x="849.31458"
-         y="1044.7057"
-         id="tspan23086">Desarrollador Frontend</tspan><tspan
+         y="1110.7057"
+         id="tspan23086">Desarrollador Front End</tspan><tspan
          sodipodi:role="line"
          x="849.31458"
-         y="1081.3723"
+         y="1147.3723"
          id="tspan25272" /></text>
     <ellipse
        style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path243679-15-8-3"
        cx="777.42853"
-       cy="1079.0266"
+       cy="1145.0266"
        rx="7.9792771"
        ry="8.0378542"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
@@ -1023,8 +1025,18 @@
     <ellipse
        style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path243679-15-8-8"
-       cx="-78.170456"
-       cy="1128.2981"
+       cx="777.90668"
+       cy="1219.6382"
+       rx="7.9792771"
+       ry="8.0378542"
+       inkscape:export-filename="/home/tronko/Downloads/path32711.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path243679-15-8-8-0"
+       cx="779.37329"
+       cy="1255.3184"
        rx="7.9792771"
        ry="8.0378542"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
@@ -1034,7 +1046,7 @@
        style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path243679-15-8-8-3"
        cx="777.07721"
-       cy="1113.1678"
+       cy="1179.1678"
        rx="7.9792771"
        ry="8.0378542"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
@@ -1044,7 +1056,7 @@
        style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path243679-15-8-6"
        cx="777.42853"
-       cy="1263.2887"
+       cy="1401.2887"
        rx="7.9792771"
        ry="8.0378542"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
@@ -1054,7 +1066,7 @@
        style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path243679-15-8-6-7"
        cx="778.18512"
-       cy="1226.5046"
+       cy="1364.5046"
        rx="7.9792771"
        ry="8.0378542"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
@@ -1064,84 +1076,104 @@
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none"
        x="798.20905"
-       y="1088.3629"
+       y="1154.3629"
        id="text31678"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="798.20905"
-         y="1088.3629"
-         id="tspan26611">Desarrollo de sitios estáticos con: <tspan
+         y="1154.3629"
+         id="tspan26611"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan95349">Debugging</tspan> de sitios web para su mantenimietno y optimización.</tspan><tspan
+         sodipodi:role="line"
+         x="798.20905"
+         y="1191.0295"
+         id="tspan94098">Elaboración de base de datos y realización de consultas <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan73322">MySQL.</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="798.20905"
+         y="1227.6962"
+         id="tspan69736">Desarrollo de sitios estáticos con: <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan6776">SCSS </tspan><tspan
    id="tspan48852"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">ocupando  Node-Js</tspan></tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">ocupando  Node-Js.</tspan></tspan><tspan
          sodipodi:role="line"
          x="798.20905"
-         y="1125.0295"
-         id="tspan23722">Elaboración y diseño Web basados en experiencia de Usuario</tspan><tspan
+         y="1264.3628"
+         id="tspan23722">Elaboración y <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan84070">diseño</tspan> Web basados en experiencia de usuario</tspan><tspan
          sodipodi:role="line"
          x="798.20905"
-         y="1161.6962"
-         id="tspan35081">(UX), ocupando como pilar la arquitctura de la información</tspan><tspan
+         y="1301.0294"
+         id="tspan35081">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan31532">UX</tspan>), ocupando como pilar la <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan22600">arquitctura</tspan> de la <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan25470">información</tspan></tspan><tspan
          sodipodi:role="line"
          x="798.20905"
-         y="1198.3628"
+         y="1337.696"
          id="tspan39403">en la elaboración de <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan46151">wireframes</tspan></tspan><tspan
+   id="tspan46151">wireframes.</tspan></tspan><tspan
          sodipodi:role="line"
          x="798.20905"
-         y="1235.0294"
-         id="tspan23713">Gestionar versiones con <tspan
+         y="1374.3627"
+         id="tspan23713">Manejo de <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan273285">Git</tspan> y <tspan
+   id="tspan18726">Git</tspan> y <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan271213">GitHub.</tspan></tspan><tspan
+   id="tspan21326">GitHub</tspan> como gestores de versiones.</tspan><tspan
          sodipodi:role="line"
          x="798.20905"
-         y="1271.696"
+         y="1411.0293"
          id="tspan199119">Manejo de metodologías ágiles (<tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan53283">SCRUM</tspan>) ocupando como </tspan><tspan
          sodipodi:role="line"
          x="798.20905"
-         y="1308.3627"
+         y="1447.6959"
          id="tspan87280">herramienta <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan4328">Trello.</tspan></tspan><tspan
          sodipodi:role="line"
          x="798.20905"
-         y="1345.0293"
+         y="1484.3625"
          id="tspan182229" /></text>
     <text
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none;display:inline"
        x="850.54541"
-       y="1428.0039"
+       y="1538.0039"
        id="text23084-5"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="850.54541"
-         y="1428.0039"
+         y="1538.0039"
          id="tspan23086-8"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Tecseric 2021</tspan><tspan
          sodipodi:role="line"
          x="850.54541"
-         y="1465.6018"
-         id="tspan46070">Desarrollador Frontend</tspan><tspan
+         y="1575.6018"
+         id="tspan46070">Desarrollador Front End</tspan><tspan
          sodipodi:role="line"
          x="850.54541"
-         y="1502.2684"
+         y="1612.2684"
          id="tspan25272-8" /></text>
     <ellipse
        style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path243679-15-8-0"
        cx="778.65936"
-       cy="1501.8335"
+       cy="1611.8335"
        rx="7.9792771"
        ry="8.0378542"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
@@ -1151,7 +1183,7 @@
        style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path243679-15-8-4"
        cx="778.65936"
-       cy="1577.1907"
+       cy="1687.1907"
        rx="7.9792771"
        ry="8.0378542"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
@@ -1161,7 +1193,7 @@
        style="display:inline;opacity:0.518164;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:4.59069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path243679-15-8-88"
        cx="778.65936"
-       cy="1613.1429"
+       cy="1723.1429"
        rx="7.9792771"
        ry="8.0378542"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
@@ -1171,14 +1203,14 @@
        xml:space="preserve"
        style="font-size:29.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:none;display:inline"
        x="799.43988"
-       y="1513.5958"
+       y="1623.5958"
        id="text31678-3"
        inkscape:export-filename="/home/tronko/Downloads/path32711.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="799.43988"
-         y="1513.5958"
+         y="1623.5958"
          id="tspan31680-8">Elaboración de landing page con <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan109088">HTML<tspan
@@ -1190,24 +1222,20 @@
    id="tspan219281">,</tspan> PHP</tspan></tspan><tspan
          sodipodi:role="line"
          x="799.43988"
-         y="1550.2625"
-         id="tspan51936"><tspan
-   id="tspan27396"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">ocupando</tspan><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan8026"> XAMPP</tspan> y framework como: <tspan
+         y="1660.2625"
+         id="tspan51936"> y framework como: <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan4423">Bootstrap 4 - 5.</tspan> </tspan><tspan
          sodipodi:role="line"
          x="799.43988"
-         y="1586.9291"
-         id="tspan103320">Manejo FileZilla (protocolo <tspan
+         y="1696.9291"
+         id="tspan103320">Manejo FileZilla ( protocolo <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
-   id="tspan3345">FTP</tspan>)</tspan><tspan
+   id="tspan3345">FTP</tspan>) actualizando datos del servidor.</tspan><tspan
          sodipodi:role="line"
          x="799.43988"
-         y="1623.5957"
-         id="tspan38002-3">Elaboración del diseño de los sitios web </tspan></text>
+         y="1733.5957"
+         id="tspan38002-3">Elaboración del diseño de los sitios web.</tspan></text>
     <g
        id="g27873"
        transform="translate(0,40)">

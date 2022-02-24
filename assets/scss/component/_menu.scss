@@ -2,7 +2,8 @@
 .menu{
     z-index: var(--z-modal);
     position: fixed;
-    right: 0;
+    width: 100%;
+    // right: 0;
     left: 0;
     display: flex;
     align-items: center;

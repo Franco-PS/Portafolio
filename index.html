@@ -7,7 +7,7 @@
     <meta name="description" content="Desarrollador Web">
     <meta name="robots" content="index,follow">
     <link rel="shortcut icon" href="./assets/img/terminal.ico" type="image/x-icon">
-    <link rel="stylesheet" href="./assets/css/style.css?202231">
+    <link rel="stylesheet" href="./assets/css/style.css?202233">
     <!-- cdn icon -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
     
@@ -35,26 +35,47 @@
     </header>
     <!-- banner -->
     <div id="banner" class="banner">
-        <img srcset="./assets/img/desierto-chico.jpg 820w, ./assets/img/desierto-grande958.jpg 1100w"
-        src="https://www.pexels.com/photo/sea-dawn-landscape-sunset-4132804/" 
-        alt="reloj con una roca (fosil) de fondo" class="banner__img">
-        <div class="container banner__content">
-            <div class="row row-aline">
-                <div class="col-12 col-sm-6 filter">
-                    <div class="block">
-                        <h1 class="banner__text "><span class="banner__text-change">Desarrollador </span>FrontEnd </h1>
-                        <p class="banner__text mb-0">Francisco Gerardo Pérez</p>
-                        <div class="d-flex">
-                            <a id="btnCV" class="btn " >Download C.V.</a>
+        <img src="./assets/img/landing.min.svg" alt="fondo de protitipos de páginas web" class="banner__img">        
+            <div class="item__block-cv">                
+                <div class="container ">
+                    <div class="row align-items-center ">
+                        <div class="col-12 col-md-6 d-flex justify-content-center">
+                            <img class="banner__img-mi mx-auto" src="./assets/img/frank2.jpg" alt="mi fotografía">
                         </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6 text-center ">
-                    <img class="banner__imgMy " src="./assets/img/frank2.jpg" alt="mi fotografía">
-                </div>
+                        <div class="col-12 col-md-6">
+                            <div class="banner__filter mt-1 mt-mt-md-0">
+                                <h1 class="banner__text "><span class="banner__text-change">Desarrollador </span>FrontEnd </h1>
+                                <p class="banner__text mb-0">Francisco Gerardo Pérez</p>
+                                <div class="d-flex">
+                                    <a id="btnCV" class="btn " >Download C.V.</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>               
+                </div>                
             </div>
-        </div>
-
+            <div class="item__block-tool d-flex align-items-center">                
+                    <div class="container banner__content-tool banner__filter">
+                        <div class="col-12 col-md-6 col-lg-3 px-2">
+                            <h4>FrontEnd</h4>
+                            <!-- <p>Trabajo en base a resultados, siguendo las mejores practicas</p> -->
+                            <p>Realizando las mejores practicas en la elaboración software</p>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-3 px-2">
+                            <h4>UX</h4>
+                            <!-- <p>Me encanta realizar sitios web enfocados al usuario</p> -->
+                            <p>Realizaro sitios web enfocados a las necesidades del usuario</p>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-3 px-2">
+                            <h4>Mís retos</h4>
+                            <p>Aprender FrontEnd, BackEnd y gestion de proyectos.</p>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-3 px-2">
+                            <h4>Sobre mí</h4>
+                            <p>Tengo una gran pasión por seguir aprendiendo cada día.</p>
+                        </div>
+                    </div>                
+            </div>
     </div>
     <div class="position">
         <main id="main">
@@ -93,8 +114,6 @@
                        <div class=" col-12 col-md-6 col-xl-4 my-3">
                            <div class="block-proyec">
                                <img class="block-img " src="./assets/img/portafolio2.jpg" alt="imagen de este sitio web (Portafolio)">
-                               <!-- <img class="block-img " src="" alt="" 
-                               srcset="./assets/img/pc640.jpg 640w, ./assets/img/pc640.jpg 1920w"> -->
                                <div class="block-proyec__bg-gray">
                                    <a class="btn btn__proyec" href="https://franco-ps.github.io/Portafolio/">
                                        <i class="fas fa-globe-americas fa-2x d-block"></i>
@@ -180,11 +199,7 @@
                                 <li>
                                     <p><i class="fab fa-git-alt"></i>
                                         GIT</p>
-                                </li>
-                                <!-- <li>
-                                    <p><i class="fab fa-react"></i>
-                                        REACT</p>
-                                </li> -->                                
+                                </li>                               
                             </ul>
                         </div>
                    </div>
@@ -230,7 +245,7 @@
                        <div class="col-12 col-md-6 contact__block">
                            <div class="contact__block-link">
                                <a href="https://mx.linkedin.com/in/francisco-gerardo-p%C3%A9rez-salazar-889189213" target="_blank"><i class="fab fa-linkedin fa-sm"></i></a>
-                               <!-- <a href="" target="_blank"><i class="fab fa-twitter-square"></i></a> -->
+                               
                                <a href="https://t.me/Franc584" target="_blank"><i class="fab fa-telegram fa-sm"></i></a>
                                <a id="alerWhatsApp" ><i class="fab fa-whatsapp-square fa-sm"></i></a>
                             </div>
@@ -273,7 +288,7 @@
     </div>
 
     <script src="./assets/js/menu.js"></script>
-    <script src="./assets/js/banner-cv.js"></script>
+    <script src="./assets/js/banner-cv.js?2022"></script>
     <script src="./assets/js/footer-message.js"></script>
 </body>
 </html>

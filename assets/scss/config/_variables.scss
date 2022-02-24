@@ -27,7 +27,7 @@ $breack-point:(
     --color-white:white;
     --color-black:rgb(5, 5, 5);
     --color-strong-gray:rgb(49, 49, 49);
-    --color-shadow: 0 1rem 3rem rgb(5, 5, 5);
+    --color-shadow: 0 .5rem 2rem rgb(5, 5, 5);
 }
 
 // variables de anidamiento
@@ -47,6 +47,7 @@ $breack-point:(
     --body-font-size:1rem;
     --nav-font-size:1.1rem;
     --banner-font-size:1.6rem;
+    --banner-font-size-slim:.9rem;
     --small-font-size:.75rem;
     @include rwd(md) {
         --h1-font-size:2.5rem;
@@ -55,6 +56,7 @@ $breack-point:(
         --body-font-size:1.2rem;
         --nav-font-size:1.2rem;
         --banner-font-size:2rem;
+        --banner-font-size-slim:1rem;
         --small-font-size:.8rem;
     }
 }
