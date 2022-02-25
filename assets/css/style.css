@@ -206,7 +206,7 @@ body p {
   position: absolute;
   object-position: center;
   object-fit: cover;
-  background-color: #353636; }
+  background-color: #343434; }
 
 .item__block-cv {
   grid-area: block__cv;

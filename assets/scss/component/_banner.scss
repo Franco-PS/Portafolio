@@ -21,7 +21,7 @@
     position: absolute;
     object-position: center;
     object-fit: cover;
-    background-color: rgb(53, 54, 54);
+    background-color: rgb(52, 52, 52);
 }
 // .banner__img::before {
 //     content: "";
@@ -44,10 +44,8 @@
     grid-area: block__tool;
     overflow: hidden;
     display: flex;
-    // background-color: rgb(217, 255, 127);
 }
 .banner__content-tool{
-    // background-color: aqua;
     display: flex;    
     align-items: center;
     overflow: scroll;
@@ -61,7 +59,6 @@
     font-size: var(--nav-font-size);
 }
 .banner__content-tool p{
-    // font-family: var();
     font-size: var(--banner-font-size-slim);
 }
 .banner__content-mi{
@@ -92,7 +89,6 @@ div .banner__filter{
 }
 .banner__img-mi{
     width: 60%;
-    // margin: 1rem 0;
     // clip-path: circle(30% at 60% 45%);
     box-shadow: var(--color-shadow);
     @include rwd(md){
